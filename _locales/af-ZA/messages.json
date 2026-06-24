@@ -453,7 +453,7 @@
     "messageformat": "Jy kan slegs tot 4 kletse merk met 'n speld"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Jy kan slegs {maxPinnedConversations,number} klets met 'n speld merk} other {Jy kan slegs tot soveel as {maxPinnedConversations,number} kletse met 'n speld merk}}"
   },
   "icu:view": {
     "messageformat": "Bekyk"
@@ -2787,7 +2787,7 @@
     "messageformat": "Geen plakkers geïnstalleer nie"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Geen plakkerpakkette nie, voeg plakkers by om aan jou vriende te stuur."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Voeg Plakkers by"
@@ -2802,10 +2802,10 @@
     "messageformat": "Plakkers wat jy ontvang het"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Met jou gedeel"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "As jy 'n plakker van iemand ontvang, sal die plakkerpakket hier verskyn."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Plakkers van inkomende boodskappe sal hier verskyn"
@@ -2826,7 +2826,7 @@
     "messageformat": "Almal"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "My plakkers"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Voeg toe"
@@ -8266,6 +8266,6 @@
     "messageformat": "Ondersteuning vir die donker ikoonstyl in macOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Ons het 'n fout in die plakkerpakket-skepper wat die koppelvlak in die verkeerde taal vertoon het, herstel."
   }
 }

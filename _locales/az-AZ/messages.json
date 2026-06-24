@@ -453,7 +453,7 @@
     "messageformat": "Yalnız 4 söhbətə qədər sancaqlaya bilərsiniz"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Maksimum {maxPinnedConversations,number} çata qədər sancaqlaya bilərsiniz} other {Maksimum {maxPinnedConversations,number} çata qədər sabitləyə bilərsiniz}}"
   },
   "icu:view": {
     "messageformat": "Baxış"
@@ -2787,7 +2787,7 @@
     "messageformat": "Heç bir stiker quraşdırılmayıb"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Stiker paketi yoxdur, dostlarınıza göndərmək üçün stikerlər əlavə edin."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Stikerlər əlavə edin"
@@ -2802,10 +2802,10 @@
     "messageformat": "Aldığınız stikerlər"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Sizinlə paylaşılanlar"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Kimsə sizə stiker göndərdikdə, stiker paketi burada görünür."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Gələn mesajlardakı stikerlər burada görünəcək"
@@ -2826,7 +2826,7 @@
     "messageformat": "Hamısı"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Stikerlərim"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Əlavə et"
@@ -8266,6 +8266,6 @@
     "messageformat": "Əgər ruhunuzdakı qotik insanı kəşf etmək istəsəniz, sizin üçün macOS-un tünd rəngli piktoqram tərzində dəstəyini də əlavə etdik."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "İnterfeysi səhv dildə göstərən stiker yaradıcısı ilə bağlı bir nasazlığı aradan qaldırdıq. Bununla belə stikerlər sadəcə şəkillərdən ibarətdir (buna görə min sözə dəyər) və sözləri doğru seçmək də çox vacibdir."
   }
 }

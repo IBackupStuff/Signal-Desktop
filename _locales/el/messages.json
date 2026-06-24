@@ -453,7 +453,7 @@
     "messageformat": "Μπορείς να καρφιτσώσεις μέχρι 4 συνομιλίες"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Μπορείς να καρφιτσώσεις έως {maxPinnedConversations,number} συνομιλία} other {Μπορείς να καρφιτσώσεις έως {maxPinnedConversations,number} συνομιλίες}}"
   },
   "icu:view": {
     "messageformat": "Εμφάνιση"
@@ -2787,7 +2787,7 @@
     "messageformat": "Δεν υπάρχουν εγκατεστημένα αυτοκόλλητα"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Δεν υπάρχουν πακέτα αυτοκόλλητων, πρόσθεσε αυτοκόλλητα για να τα στείλεις στους φίλους σου."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Προσθήκη αυτοκόλλητων"
@@ -2802,10 +2802,10 @@
     "messageformat": "Αυτοκόλλητα που έχεις λάβει"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Κοινοποιήθηκαν σε σένα"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Όταν λάβεις ένα αυτοκόλλητο από κάποιον, το πακέτο αυτοκόλλητων θα εμφανιστεί εδώ."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Αυτοκόλλητα από εισερχόμενα μηνύματα θα εμφανίζονται εδώ"
@@ -2826,7 +2826,7 @@
     "messageformat": "Όλα"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Τα αυτοκόλλητά μου"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Προσθήκη"
@@ -8266,6 +8266,6 @@
     "messageformat": "Υποστήριξη για το στυλ «σκοτεινά εικονίδια» στο macOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Διορθώσαμε ένα σφάλμα στο εργαλείο δημιουργίας αυτοκόλλητων, το οποίο εμφάνιζε τη διεπαφή σε λάθος γλώσσα."
   }
 }

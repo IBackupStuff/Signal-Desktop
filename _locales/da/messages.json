@@ -453,7 +453,7 @@
     "messageformat": "Du kan kun fastgøre op til 4 chats"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Du kan kun fastgøre op til {maxPinnedConversations,number} chats} other {Du kan kun fastgøre op til {maxPinnedConversations,number} chats}}"
   },
   "icu:view": {
     "messageformat": "Vis"
@@ -2787,7 +2787,7 @@
     "messageformat": "Ingen klistermærker er installeret"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Ingen klistermærkepakker. Tilføj klistermærker, og send dem til dine venner."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Tilføj klistermærke"
@@ -2802,10 +2802,10 @@
     "messageformat": "Klistermærker, du har modtaget"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Delt med dig"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Når du modtager et klistermærke fra nogen, vises klistermærkepakken her."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Klistermærker fra indgående beskeder vises her"
@@ -2826,7 +2826,7 @@
     "messageformat": "Alle"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Mine klistermærker"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Tilføj"
@@ -8266,6 +8266,6 @@
     "messageformat": "Hvis du vil omfavne din indre goth, har vi også tilføjet understøttelse af den mørke ikonstil i macOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Vi har rettet en fejl i klistermærkeværktøjet, hvor brugerfladen blev vist på det forkerte sprog. Selvom klistermærker er billeder (og derfor siger mere end tusind ord), er det stadig vigtigt at få ordene sagt rigtigt."
   }
 }

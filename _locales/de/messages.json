@@ -453,7 +453,7 @@
     "messageformat": "Du kannst maximal 4 Chats fixieren"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Du kannst maximal {maxPinnedConversations,number} Chat fixieren} other {Du kannst maximal {maxPinnedConversations,number} Chats fixieren}}"
   },
   "icu:view": {
     "messageformat": "Anzeigen"
@@ -2787,7 +2787,7 @@
     "messageformat": "Keine Sticker installiert"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Keine Sticker-Sets – füge Sticker hinzu, um sie an deine Freunde und Freundinnen zu schicken."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Sticker hinzufügen"
@@ -2802,10 +2802,10 @@
     "messageformat": "Empfangene Sticker"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Mit dir geteilt"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Wenn du von jemandem einen Sticker erhältst, erscheint das Sticker-Set hier."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Hier werden Sticker eingehender Nachrichten erscheinen"
@@ -2826,7 +2826,7 @@
     "messageformat": "Alle"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Meine Sticker"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Hinzufügen"
@@ -8266,6 +8266,6 @@
     "messageformat": "Wenn du deinen inneren Goth ausleben möchtest: Wir unterstützen jetzt auch den dunklen Icon-Stil in MacOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Wir haben einen Fehler im Sticker-Creator behoben, der die Benutzeroberfläche in der falschen Sprache anzeigte. Auch wenn Sticker Bilder sind (und somit mehr sagen als tausend Worte), ist es dennoch wichtig, die richtigen Worte zu finden."
   }
 }

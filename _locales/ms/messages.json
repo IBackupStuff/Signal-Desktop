@@ -453,7 +453,7 @@
     "messageformat": "Anda hanya boleh pin sehingga 4 sembang"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, other {Anda hanya boleh pin hingga {maxPinnedConversations,number} sembang}}"
   },
   "icu:view": {
     "messageformat": "Lihat"
@@ -2787,7 +2787,7 @@
     "messageformat": "Tiada pelekat dipasang"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Tiada pek pelekat, tambah pelekat untuk dihantar kepada rakan anda."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Tambah Pelekat"
@@ -2802,10 +2802,10 @@
     "messageformat": "Pelekat Yang Anda Terima"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Dikongsi Bersama Anda"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Apabila anda menerima pelekat daripada seseorang, pek pelekat akan muncul di sini."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Pelekat daripada mesej masuk akan muncul di sini"
@@ -2826,7 +2826,7 @@
     "messageformat": "Semua"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Pelekat Saya"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Tambah"
@@ -8266,6 +8266,6 @@
     "messageformat": "Sokongan untuk gaya ikon gelap dalam macOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Kami telah membetulkan pepijat dalam pencipta pelekat yang memaparkan antara muka dalam bahasa yang salah."
   }
 }

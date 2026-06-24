@@ -453,7 +453,7 @@
     "messageformat": "Du kan feste opptil fire samtaler"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Du kan feste opptil {maxPinnedConversations,number} samtale} other {Du kan feste opptil {maxPinnedConversations,number} samtaler}}"
   },
   "icu:view": {
     "messageformat": "Vis"
@@ -2787,7 +2787,7 @@
     "messageformat": "Ingen klistremerker installert"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Ingen klistremerkepakker – legg til klistremerker for å sende dem til vennene dine."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Legg til klistremerker"
@@ -2802,10 +2802,10 @@
     "messageformat": "Klistremerker du mottok"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Delt med deg"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Når du får tilsendt et klistremerke, dukker klistremerkepakken opp her."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Klistremerker fra innkommende meldinger vises her"
@@ -2826,7 +2826,7 @@
     "messageformat": "Alle"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Mine klistremerker"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Legg til"
@@ -8266,6 +8266,6 @@
     "messageformat": "Støtte for mørke ikoner i macOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Vi har rettet opp i en feil som førte til at brukergrensesnittet for klistremerker ble vist på feil språk."
   }
 }

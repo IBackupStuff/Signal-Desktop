@@ -453,7 +453,7 @@
     "messageformat": "En fazla 4 sohbet sabitleyebilirsin"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Yalnızca {maxPinnedConversations,number} sohbet sabitleyebilirsin} other {Yalnızca {maxPinnedConversations,number} sohbet sabitleyebilirsin}}"
   },
   "icu:view": {
     "messageformat": "Görüntüle"
@@ -2787,10 +2787,10 @@
     "messageformat": "Yüklü çıkartma yok"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Çıkartma paketi yok. Arkadaşlarına göndermek için çıkartma ekle."
   },
   "icu:stickers--StickerManager--AddStickers": {
-    "messageformat": "Çıkartma Ekle"
+    "messageformat": "Çıkartma ekle"
   },
   "icu:stickers--StickerManager--BlessedPacks": {
     "messageformat": "Signal Tarafından"
@@ -2802,10 +2802,10 @@
     "messageformat": "Aldığınız Çıkartmalar"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Seninle Paylaşıldı"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Birisinden bir çıkartma aldığında, çıkartma paketi burada görünecektir."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Gelen iletilerden aldığınız çıkartmalar burada gözükecektir"
@@ -2826,7 +2826,7 @@
     "messageformat": "Tümü"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Çıkartmalarım"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Ekle"
@@ -8266,6 +8266,6 @@
     "messageformat": "MacOS'ta koyu simge stili desteği"
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Arayüzü yanlış dilde gösteren çıkartma oluşturucudaki bir hatayı düzelttik. Çıkartmalar bazen onlarca kelimeyi barındıran resimler de olsa, kelimeleri doğru anlamak halen önemli."
   }
 }

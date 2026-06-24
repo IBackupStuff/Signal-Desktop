@@ -453,7 +453,7 @@
     "messageformat": "Gali prisegti daugiausiai 4 pokalbius"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Galite prisegti daugiausia {maxPinnedConversations,number} pokalbį} few {Galite prisegti daugiausia {maxPinnedConversations,number} pokalbius} many {Galite prisegti daugiausia {maxPinnedConversations,number} pokalbio} other {Galite prisegti daugiausia {maxPinnedConversations,number} pokalbių}}"
   },
   "icu:view": {
     "messageformat": "Žiūrėti"
@@ -2787,7 +2787,7 @@
     "messageformat": "Nėra jokių įdiegtų lipdukų"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Lipdukų paketų nėra. Pridėkite lipdukų siųsti draugams."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Pridėti lipdukų"
@@ -2802,10 +2802,10 @@
     "messageformat": "Jūsų gauti lipdukai"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Pasidalino su jumis"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Iš kieno nors gavus lipduką, lipdukų paketas bus rodomas čia."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Čia bus rodomi lipdukai iš gaunamų žinučių"
@@ -2826,7 +2826,7 @@
     "messageformat": "Visi"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Mano lipdukai"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Pridėti"
@@ -8266,6 +8266,6 @@
     "messageformat": "Tamsaus piktogramų stiliaus palaikymas „macOS“."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Ištaisėme lipdukų kūrimo priemonės klaidą, dėl kurios sąsaja buvo rodoma neteisinga kalba."
   }
 }

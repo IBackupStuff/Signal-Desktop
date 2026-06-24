@@ -453,7 +453,7 @@
     "messageformat": "Сіз тек 4 чатқа дейін бекіте аласыз"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Ең көбі {maxPinnedConversations,number} чатты бекіте аласыз} other {Ең көбі {maxPinnedConversations,number} чатты бекіте аласыз}}"
   },
   "icu:view": {
     "messageformat": "Көру"
@@ -2787,7 +2787,7 @@
     "messageformat": "Стикерлер орнатылмады"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Стикерлер жинағы жоқ, достарыңызға жіберетін стикерлерді қосыңыз."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Стикерлерді қосу"
@@ -2802,10 +2802,10 @@
     "messageformat": "Алынған стикерлер"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Сізге жіберілген стикерлер"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Сізге біреу стикер жібергенде, стикерлер жинағы осы жерде көрсетіледі."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Кіріс хаттардағы стикерлер осы жерде пайда болады"
@@ -2826,7 +2826,7 @@
     "messageformat": "Барлығы"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Менің стикерлерім"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Қосу"
@@ -8266,6 +8266,6 @@
     "messageformat": "Қараңғы түстер стилін ұнататын болсаңыз, енді macOS-тағы қараңғы белгіше стилін де пайдалана аласыз."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Интерфейсті басқа тілде көрсетіп тұратын стикер жасау құралындағы ақауды түзеттік. Стикерлер (мың сөздің орнын басатын) суреттерден ғана тұрса да, сөздерді дұрыс қолдана білу әлі де маңызды."
   }
 }

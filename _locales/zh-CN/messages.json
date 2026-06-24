@@ -453,7 +453,7 @@
     "messageformat": "您至多只能置顶 4 个聊天"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, other {您至多只能置顶 {maxPinnedConversations,number} 个聊天}}"
   },
   "icu:view": {
     "messageformat": "查看"
@@ -2787,7 +2787,7 @@
     "messageformat": "没有安装任何表情包"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "没有贴纸包，请添加贴纸以发送给朋友。"
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "添加表情"
@@ -2802,10 +2802,10 @@
     "messageformat": "您收到的表情"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "他人分享"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "当您收到其他用户发送的贴纸后，贴纸包将会在这里显示。"
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "消息中的表情会显示在这里"
@@ -2826,7 +2826,7 @@
     "messageformat": "全部"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "我的贴纸"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "添加"
@@ -8266,6 +8266,6 @@
     "messageformat": "支持 macOS 深色图标样式。"
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "我们修复了贴纸创建器中的一个错误，该错误会导致界面显示为错误的语言。"
   }
 }

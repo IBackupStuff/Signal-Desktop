@@ -453,7 +453,7 @@
     "messageformat": "Gehienez 4 txat aingura ditzakezu"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Gehienez {maxPinnedConversations,number} txat aingura dezakezu} other {Gehienez {maxPinnedConversations,number} txat aingura ditzakezu}}"
   },
   "icu:view": {
     "messageformat": "Ikusi"
@@ -2787,7 +2787,7 @@
     "messageformat": "Ez dago eranskailurik instalatuta"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Ez dago eranskailu-paketerik; lagunei eranskailuak bidaltzeko, gehi itzazu."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Gehitu eranskailuak"
@@ -2802,10 +2802,10 @@
     "messageformat": "Jaso dituzun eranskailuak"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Zurekin partekatua"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Norbaitek eranskailu bat bidaltzen dizunean, eranskailu-paketea hemen agertuko da."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Jasotako mezuetako eranskailuak hemen agertuko dira"
@@ -2826,7 +2826,7 @@
     "messageformat": "Denak"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Nire eranskailuak"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Gehitu"
@@ -8266,6 +8266,6 @@
     "messageformat": "Ikono ilunen estiloa erabiltzeko aukera macOS-n."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Interfazea hizkuntza okerrean bistaratzen zuen akats bat konpondu dugu eranskailu-sortzailean."
   }
 }

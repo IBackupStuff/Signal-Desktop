@@ -453,7 +453,7 @@
     "messageformat": "អ្នកអាចខ្ទាស់ការជជែកបានរហូតដល់ 4 ប៉ុណ្ណោះ"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, other {អ្នកអាចខ្ទាស់ការជជែកបានរហូតដល់ {maxPinnedConversations,number} ប៉ុណ្ណោះ}}"
   },
   "icu:view": {
     "messageformat": "មើល"
@@ -2787,7 +2787,7 @@
     "messageformat": "ពុំមានស្ទីកគ័រដំឡើងទេ"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "មិនមានកញ្ចប់ស្ទីកគ័រទេ សូមបញ្ចូលស្ទីកគ័រដើម្បីផ្ញើទៅមិត្តភក្តិរបស់អ្នក។"
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "បញ្ចូលស្ទីកគ័រ"
@@ -2802,10 +2802,10 @@
     "messageformat": "ស្ទីកគ័រដែលអ្នកបានទទួល"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "បានចែករំលែកជាមួយអ្នក"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "នៅពេលអ្នកទទួលបានស្ទីកគ័រពីនរណាម្នាក់ កញ្ចប់ស្ទីកគ័រនឹងបង្ហាញនៅទីនេះ។"
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "ស្ទីកគ័រពីសារដែលចូលមកនឹងបង្ហាញទីនេះ"
@@ -2826,7 +2826,7 @@
     "messageformat": "ទាំងអស់"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "ស្ទីកគ័ររបស់ខ្ញុំ"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "បញ្ចូល"
@@ -8266,6 +8266,6 @@
     "messageformat": "ប្រសិនបើអ្នកចង់យករចនាបថហ្គោធិកខាងក្នុងរបស់អ្នកមកប្រើ យើងក៏បានបន្ថែមការគាំទ្រដើម្បីឱ្យស្គាល់រចនាបថរូបងងឹតនៅក្នុង macOS ដែរ។"
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "យើងបានដោះស្រាយបញ្ហាមួយនៅក្នុងមុខងារបង្កើតស្ទីកគ័រដែលបានបង្ហាញអ៊ីនធើហ្វេសខុសភាសា។ ទោះបីជាស្ទីកគ័រគឺជារូបភាព (ដែលមានអត្ថន័យរាប់ពាន់ពាក្យក៏ដោយ) ការសរសេរឱ្យត្រូវពាក្យក៏នៅតែមានសារៈសំខាន់ដែរ។"
   }
 }

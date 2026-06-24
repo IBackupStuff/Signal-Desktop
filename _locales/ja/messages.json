@@ -453,7 +453,7 @@
     "messageformat": "ピン留めできるチャットは4件までです"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, other {ピン留めできるチャットは{maxPinnedConversations,number}件までです}}"
   },
   "icu:view": {
     "messageformat": "表示"
@@ -2787,7 +2787,7 @@
     "messageformat": "ステッカーはインストールされていません"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "ステッカーパックがありません。友達に送るステッカーを追加しましょう。"
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "ステッカーを追加"
@@ -2802,10 +2802,10 @@
     "messageformat": "受信済みステッカー"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "共有されたステッカー"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "誰かからステッカーを受け取ると、ステッカーパックの内容がここに表示されます。"
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "受信メッセージのステッカーはここに表示されます"
@@ -2826,7 +2826,7 @@
     "messageformat": "すべて"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "マイステッカー"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "追加"
@@ -8266,6 +8266,6 @@
     "messageformat": "macOSのダークアイコンスタイルに対応しました。"
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "ステッカークリエイターで、インターフェイスが誤った言語で表示されるバグを修正しました。"
   }
 }

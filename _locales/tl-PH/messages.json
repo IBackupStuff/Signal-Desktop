@@ -453,7 +453,7 @@
     "messageformat": "Hanggang 4 chats ang pwede mong i-pin"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Pwede ka lang mag-pin ng hanggang {maxPinnedConversations,number} chat} other {Pwede ka lang mag-pin ng hanggang {maxPinnedConversations,number} chats}}"
   },
   "icu:view": {
     "messageformat": "Tingnan"
@@ -2787,7 +2787,7 @@
     "messageformat": "Walang naka-install na sticker"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Walang sticker packs, magdagdag ng stickers na ipapadala sa friends mo."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Magdagdag ng Stickers"
@@ -2802,10 +2802,10 @@
     "messageformat": "Mga Sticker na Natanggap Mo"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Naka-share Sa 'Yo"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Kapag nakatanggap ka ng sticker mula sa isang tao, ipapakita rito ang sticker pack na 'yon."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Ang mga sticker mula sa mga paparating na mensahe ay lalabas dito"
@@ -2826,7 +2826,7 @@
     "messageformat": "Lahat"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Stickers Ko"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Mag-add"
@@ -8266,6 +8266,6 @@
     "messageformat": "Suporta para sa dark icon style sa macOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Inayos namin ang isang bug sa sticker creator na nagpapakita ng interface sa maling language."
   }
 }

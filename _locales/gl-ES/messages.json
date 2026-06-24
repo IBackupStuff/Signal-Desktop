@@ -453,7 +453,7 @@
     "messageformat": "Só se poden fixar 4 conversas"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Só podes fixar {maxPinnedConversations,number} conversa} other {Só podes fixar {maxPinnedConversations,number} conversas}}"
   },
   "icu:view": {
     "messageformat": "Ver"
@@ -2787,7 +2787,7 @@
     "messageformat": "Sen stickers instalados"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Non hai paquetes de stickers. Engade máis para enviárllelos ás túas amizades."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Engadir stickers"
@@ -2802,10 +2802,10 @@
     "messageformat": "Stickers que recibiches"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Recibidos"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Cando recibas un sticker de alguén, todo o paquete aparecerá aquí."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Os stickers das mensaxes entrantes aparecerán aquí"
@@ -2826,7 +2826,7 @@
     "messageformat": "Todo"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Os meus stickers"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Engadir"
@@ -8266,6 +8266,6 @@
     "messageformat": "Compatibilidade coas iconas escuras en macOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Arranxamos un erro no creador de paquetes de stickers que mostraba a interface nun idioma diferente."
   }
 }

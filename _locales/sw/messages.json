@@ -453,7 +453,7 @@
     "messageformat": "Unaweza kubandika hadi gumzo 4 tu"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Unaweza tu kubandika gumzo hadi {maxPinnedConversations,number}} other {Unaweza tu kubandika magumzo hadi {maxPinnedConversations,number}}}"
   },
   "icu:view": {
     "messageformat": "Tazama"
@@ -2787,7 +2787,7 @@
     "messageformat": "Hakuna vibandiko vilivyosimikwa"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Hakuna pakiti za vibandiko, weka vibandiko ili utume kwa marafiki zako."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Weka Vibandiko"
@@ -2802,10 +2802,10 @@
     "messageformat": "Vibandiko Ulivyovipokea"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Imetumwa Kwako"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Ukipokea kibandiko kutoka kwa mtu mwingine, pakiti ya vibandiko kitaonekana hapa."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Vibandiko kutoka kwa ujumbe unaoingia vitaonekana hapa"
@@ -2826,7 +2826,7 @@
     "messageformat": "Zote"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Vibandiko Vyangu"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Ongeza"
@@ -8266,6 +8266,6 @@
     "messageformat": "Ikiwa ungependa kuonyesha upande wako wa goth, pia tumeongeza uwezo wa kutumia mtindo wa aikoni za hali ya giza katika macOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Tumerekebisha hitilafu kwenye programu ya kutengeneza vibadiko ambavyo vilikuwa vikionyesha kiolesura katika lugha isiyo sahihi. Ingawa vibandiko ni picha (na picha husema mengi), bado ni muhimu kuhakikisha kwamba maneno nayo yako sahihi."
   }
 }

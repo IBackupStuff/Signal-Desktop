@@ -453,7 +453,7 @@
     "messageformat": "Môžete pripnúť najviac 4 čety"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Môžete pripnúť maximálne {maxPinnedConversations,number} čet} few {Môžete pripnúť maximálne {maxPinnedConversations,number} čety} many {Môžete pripnúť maximálne {maxPinnedConversations,number} četu} other {Môžete pripnúť maximálne {maxPinnedConversations,number} četov}}"
   },
   "icu:view": {
     "messageformat": "Zobraziť"
@@ -2787,7 +2787,7 @@
     "messageformat": "Žiadne nainštalované nálepky"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Žiadne balíčky nálepiek, pridajte nálepky a pošlite ich priateľom."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Pridať nálepky"
@@ -2802,10 +2802,10 @@
     "messageformat": "Prijaté nálepky"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Zdieľané s vami"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Keď od niekoho dostanete nálepku, daný balíček nálepiek sa zobrazí tu."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Tu uvidíte nálepky z prichádzajúcich správ"
@@ -2826,7 +2826,7 @@
     "messageformat": "Všetky"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Moje nálepky"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Pridať"
@@ -8266,6 +8266,6 @@
     "messageformat": "Podpora pre tmavý režim ikon v systéme macOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Opravili sme chybu v nástroji na vytváranie nálepiek, ktorá zobrazovala rozhranie v nesprávnom jazyku."
   }
 }

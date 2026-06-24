@@ -453,7 +453,7 @@
     "messageformat": "4 чейин гана маек кадай аласыз"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {{maxPinnedConversations,number} гана маек кадай аласыз} other {{maxPinnedConversations,number} гана маек кадай аласыз}}"
   },
   "icu:view": {
     "messageformat": "Карап көрүү"
@@ -2787,7 +2787,7 @@
     "messageformat": "Бир да стикер орнотула элек"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Стикер топтомдору жок, досторуңузга жөнөтө турган стикерлерди кошуңуз."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Стикер кошуу"
@@ -2802,10 +2802,10 @@
     "messageformat": "Алынган стикерлер"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Сиз менен бөлүшкөндөр"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Кимдир бирөөдөн стикер алсаңыз, стикерлер топтому ушул жерде көрүнөт."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Келген билдирүүлөрдөгү стикерлер ушул жерде көрүнөт"
@@ -2826,7 +2826,7 @@
     "messageformat": "Баары"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Менин стикерлерим"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Кошуу"
@@ -8266,6 +8266,6 @@
     "messageformat": "Кара дизайнды сүйүүчүлөр үчүн macOS системасына кара түстөгү сүрөтчөлөрдү кошуп койдук."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Интерфейси туура эмес тилде көрүнгөн стикерлерди түзгүчтөгү мүчүлүштүктү оңдодук. Стикерлер сүрөт түрүндө болсо да, алардагы текст туура көрүнүшү керек."
   }
 }

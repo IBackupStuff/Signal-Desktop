@@ -453,7 +453,7 @@
     "messageformat": "Ви можете закріпити до 4 чатів"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Ви можете закріпити максимум {maxPinnedConversations,number} чат} few {Ви можете закріпити максимум {maxPinnedConversations,number} чати} many {Ви можете закріпити максимум {maxPinnedConversations,number} чатів} other {Ви можете закріпити максимум {maxPinnedConversations,number} чату}}"
   },
   "icu:view": {
     "messageformat": "Переглянути"
@@ -2787,7 +2787,7 @@
     "messageformat": "Немає встановлених стікерів"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Немає наборів стікерів. Додайте стікери, щоб надсилати їх друзям."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Додати стікери"
@@ -2802,10 +2802,10 @@
     "messageformat": "Отримані cтікери"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Отримані від інших"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Коли хтось надсилає вам стікер, тут з'являється відповідний набір стікерів."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Тут будуть стікери зі вхідних повідомлень"
@@ -2826,7 +2826,7 @@
     "messageformat": "Усі"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Мої стікери"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Додати"
@@ -8266,6 +8266,6 @@
     "messageformat": "Якщо ви любите готичний стиль, то це оновлення для вас: тепер у macOS також підтримується значок у темному стилі."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Ми виправили помилку під час вибору стікерів, коли інтерфейс показувався іншою мовою. Хоч це й зображення (і вони самі по собі варті тисячі слів), все ж важливо добирати правильні слова."
   }
 }

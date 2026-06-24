@@ -453,7 +453,7 @@
     "messageformat": "حداکثر ۴ گفتگو را می‌توانید سنجاق کنید"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {حداکثر {maxPinnedConversations,number} گفتگو را می‌توانید سنجاق کنید} other {حداکثر {maxPinnedConversations,number} گفتگو را می‌توانید سنجاق کنید}}"
   },
   "icu:view": {
     "messageformat": "مشاهده"
@@ -2787,7 +2787,7 @@
     "messageformat": "هیچ استیکری نصب نیست"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "بسته استیکر وجود ندارد، استیکر اضافه کنید تا به دوستانتان بفرستید."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "افزودن استیکر"
@@ -2802,10 +2802,10 @@
     "messageformat": "استیکر هایی که دریافت کردید"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "به‌اشتراک‌گذاشته‌شده با شما"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "وقتی از کسی استیکر دریافت می‌کنید، بسته استیکر در اینجا نمایش داده می‌شود."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "استیکر ها از پیام های دریافتی در اینجا پدیدار خواهند شد"
@@ -2826,7 +2826,7 @@
     "messageformat": "همه"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "استیکرهای من"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "افزودن"
@@ -8266,6 +8266,6 @@
     "messageformat": "پشتیبانی از سبک آیکون تیره در macOS‏."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "اشکالی را در سازنده استیکر برطرف کردیم که رابط کاربری را به زبان اشتباه نمایش می‌داد."
   }
 }

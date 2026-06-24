@@ -453,7 +453,7 @@
     "messageformat": "Mund të fiksoni deri në 4 biseda"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Mund të fiksosh maksimumi{maxPinnedConversations,number} bisedë} other {Mund të fiksosh maksimum{maxPinnedConversations,number} biseda}}"
   },
   "icu:view": {
     "messageformat": "Shih"
@@ -2787,7 +2787,7 @@
     "messageformat": "S’ka ngjitës të instaluar"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Nuk ka paketa ngjitësesh. Shto ngjitëse që t’ua dërgosh miqve."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Shto ngjitës"
@@ -2802,10 +2802,10 @@
     "messageformat": "Ngjitës Që Keni Marrë"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Ndarë me ty"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Kur merr një ngjitëse nga dikush, paketa e ngjitëseve do të shfaqet këtu."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Këtu do të shfaqen ngjitësit prej mesazhesh të marrë"
@@ -2826,7 +2826,7 @@
     "messageformat": "Të gjitha"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Ngjitëset e mia"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Shtoje"
@@ -8266,6 +8266,6 @@
     "messageformat": "Mbështetje për stilin e ikonës së errët në macOS."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Rregulluam një gabim në krijuesin e ngjitëseve që e shfaqte ndërfaqen në gjuhën e gabuar."
   }
 }

@@ -453,7 +453,7 @@
     "messageformat": "كۆپ بولغاندا 4 پاراڭنى مخلىيالايسىز"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, other {كۆپ بولغاندا {maxPinnedConversations,number} چاقىرىقلارنى مىقلىيالايسىز}}"
   },
   "icu:view": {
     "messageformat": "كۆرسەت"
@@ -2787,7 +2787,7 @@
     "messageformat": "چىراي ئىپادىسى ئورنىتىلمىغان"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "چىراي ئىپادە چاپلاق بولاقلىرى يوق، دوستلىرىڭىزغا يوللايدىغان بولاقلىرىنى قوشۇڭ."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "چاپلاقلارنى قوشۇش"
@@ -2802,10 +2802,10 @@
     "messageformat": "تاپشۇرۇۋالغان چىراي ئىپادىلىرى"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "سىز بىلەن ھەمبەھىرلىگەن"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "باشقىلار سىزگە بىر چىراي ئىپادە چاپلىقى ئەۋەتكەندە، چاپلاق بولىقى مۇشۇ يەردە كۆرۈنىدۇ."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "بۇ جايدا كەلگەن ئۇچۇرلاردىكى چىراي ئىپادىلىرى كۆرۈنىدۇ"
@@ -2826,7 +2826,7 @@
     "messageformat": "ھەممىسى"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "چىراي ئىپادە چاپلاقلىرىم"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "قوشۇش"
@@ -8266,6 +8266,6 @@
     "messageformat": "macOS قا قاراڭغۇ سىنبەلگە ئۇسلۇبىنى قوللاش ئىقتىدارىنى قوشتۇق. 8.15 نەشرنۇسخىسى ئۈچۈن."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "بىز چىراي ئىپادە ياساش قورالىدىكى كۆرۈنمە يۈزنىڭ خاتا تىلدا كۆرسىتىلىشىگە سەۋەب بولغان بىر خاتالىقنى تۈزەتتۇق .8.16 نەشر نۇسخىسى ئۈچۈن تارقىتىلدى. گەرچە چىراي ئىپادىلىرى رەسىم بولغاچقا «مىڭ سۆزنىڭ قىممىتىگە ئىگە» دەپ قارالسىمۇ، سۆزلەرنىمۇ توغرا ئىشلىتىش يەنىلا ناھايىتى مۇھىم."
   }
 }

@@ -453,7 +453,7 @@
     "messageformat": "Možete prikvačiti samo 4 chata"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Možete zakačiti najviše {maxPinnedConversations,number} chat} few {Možete zakačiti najviše {maxPinnedConversations,number} chata} many {Možete zakačiti najviše {maxPinnedConversations,number} chatova} other {Možete zakačiti najviše {maxPinnedConversations,number} chata}}"
   },
   "icu:view": {
     "messageformat": "Pregled"
@@ -2787,7 +2787,7 @@
     "messageformat": "Nema instaliranih naljepnica"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Nema paketa naljepnica, dodajte naljepnice da ih pošaljete prijateljima."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Dodaj naljepnice"
@@ -2802,10 +2802,10 @@
     "messageformat": "Primljene naljepnice"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Podijeljeno s vama"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Kada primite naljepnicu od nekoga, paket naljepnica će se pojaviti ovdje."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Naljepnice iz primljenih poruka prikazat će se ovdje"
@@ -2826,7 +2826,7 @@
     "messageformat": "Sve"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Moje naljepnice"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Dodaj"
@@ -8266,6 +8266,6 @@
     "messageformat": "Podrška za tamni stil ikona u macOS-u."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Ispravili smo grešku u kreatoru naljepnica koja je prikazivala interfejs na pogrešnom jeziku."
   }
 }

@@ -453,7 +453,7 @@
     "messageformat": "Voit kiinnittää enintään 4 keskustelua"
   },
   "icu:pinnedConversations--max": {
-    "messageformat": "{maxPinnedConversations, plural, one {You can only pin up to {maxPinnedConversations,number} chat} other {You can only pin up to {maxPinnedConversations,number} chats}}"
+    "messageformat": "{maxPinnedConversations, plural, one {Voit kiinnittää enintään {maxPinnedConversations,number} keskustelun} other {Voit kiinnittää enintään {maxPinnedConversations,number} keskustelua}}"
   },
   "icu:view": {
     "messageformat": "Näytä"
@@ -2787,7 +2787,7 @@
     "messageformat": "Tarroja ei ole asennettu"
   },
   "icu:stickers--StickerManager--MyStickers--None": {
-    "messageformat": "No sticker packs, add stickers to send to your friends."
+    "messageformat": "Sinulla ei ole tarrapaketteja. Lisää tarroja, jotta voit lähettää niitä ystävillesi."
   },
   "icu:stickers--StickerManager--AddStickers": {
     "messageformat": "Lisää tarroja"
@@ -2802,10 +2802,10 @@
     "messageformat": "Vastaanotetut tarrat"
   },
   "icu:stickers--StickerManager--ReceivedPacks2": {
-    "messageformat": "Shared With You"
+    "messageformat": "Jaettu sinulle"
   },
   "icu:stickers--StickerManager--ReceivedPacksDescription": {
-    "messageformat": "When you receive a sticker from someone, the sticker pack will appear here."
+    "messageformat": "Kun saat tarrapaketin toiselta, paketti näkyy täällä."
   },
   "icu:stickers--StickerManager--ReceivedPacks--Empty": {
     "messageformat": "Vastaanotetut tarrat näytetään tässä"
@@ -2826,7 +2826,7 @@
     "messageformat": "Kaikki"
   },
   "icu:stickers--StickerManagerHeader--MyStickers": {
-    "messageformat": "My Stickers"
+    "messageformat": "Omat tarrat"
   },
   "icu:stickers--StickerManagerPackContextMenu--Add": {
     "messageformat": "Lisää"
@@ -8266,6 +8266,6 @@
     "messageformat": "Tuki tummille kuvakkeille macOS:ssa."
   },
   "icu:WhatsNew__8.16--0": {
-    "messageformat": "We fixed a bug in the sticker creator that displayed the interface in the wrong language. Even though stickers are pictures (and therefore worth a thousand words) it's still important to get the words right too."
+    "messageformat": "Korjasimme tarrojen luontisovelluksen virheen, joka näytti käyttöliittymän väärällä kielellä."
   }
 }
