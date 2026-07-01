@@ -6701,7 +6701,7 @@
     "messageformat": "ಅಪ್‌ಡೇಟ್ ಡೌನ್‌ಲೋಡ್ ಆಗಿದೆ"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "ಆ್ಯಪ್ ಸ್ಟೋರ್‌ಗೆ ಹೋಗಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Signal ತೆರೆಯಿರಿ"
@@ -8272,9 +8272,9 @@
     "messageformat": "ಇಂಟರ್‌ಫೇಸ್ ಅನ್ನು ತಪ್ಪು ಭಾಷೆಯಲ್ಲಿ ಪ್ರದರ್ಶಿಸುತ್ತಿದ್ದ ಸ್ಟಿಕ್ಕರ್ ಕ್ರಿಯೇಟರ್‌ನಲ್ಲಿನ ಬಗ್ ಅನ್ನು ನಾವು ಸರಿಪಡಿಸಿದ್ದೇವೆ. ಸ್ಟಿಕ್ಕರ್‌ಗಳು ಚಿತ್ರಗಳಾಗಿದ್ದರೂ (ಮತ್ತು ಒಂದು ಚಿತ್ರ ಸಾವಿರ ಪದಗಳಿಗೆ ಸಮಾನವಾದರೂ), ಪದಗಳನ್ನು ಸರಿಯಾಗಿ ಬಳಸುವುದೂ ಅಷ್ಟೇ ಮುಖ್ಯವಾಗಿದೆ."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "ಗುಂಪಿನ ಅಡ್ಮಿನ್‌ಗಳು ಈಗ ಗುಂಪು ಚಾಟ್‌ನಲ್ಲಿ ಇತ್ತೀಚೆಗೆ ಕಳುಹಿಸಲಾದ ಮೆಸೇಜ್‌ಗಳನ್ನು ಅಳಿಸಬಹುದು. ಯಾರಾದರೂ ಆಕಸ್ಮಿಕವಾಗಿ ನಿಮ್ಮ ಬುಕ್ ಕ್ಲಬ್ ಗುಂಪಿನಲ್ಲಿ ಸ್ಪಾಯ್ಲರ್ ಅನ್ನು ಪೋಸ್ಟ್ ಮಾಡಿ ನಂತರ ಅವರ ಫೋನ್‌ನಿಂದ ದೂರ ಸರಿದರೆ, ಗುಂಪಿನ ಅಡ್ಮಿನ್ ಕಥಾವಸ್ತುವಿನ ಹಂದರವನ್ನು ಹಾಗೆಯೇ ಇರಿಸಿಕೊಳ್ಳಲು ಅದನ್ನು ಅಳಿಸಬಹುದು. \"ಎಲ್ಲರಿಗೂ ಅಳಿಸಿ\" ಫೀಚರ್‌ನಂತೆ, ಮೆಸೇಜ್ ಅನ್ನು ಯಾವಾಗ ಅಳಿಸಲಾಗಿದೆ ಮತ್ತು ಅದನ್ನು ಯಾರು ತೆಗೆದುಹಾಕಿದ್ದಾರೆ ಎಂಬುದನ್ನು ನೀವು ಸುಲಭವಾಗಿ ನೋಡಬಹುದು."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "ಈಗ 4 ಅಲ್ಲ 10 ಚಾಟ್‌ಗಳನ್ನು ಪಿನ್ ಮಾಡಬಹುದು. ಅಂದರೆ ಇನ್ನೂ 6 ಮಂದಿಗೆ ಅವರ ಮಾತುಗಳು ನಿಮಗಿಷ್ಟ ಎಂದು ತೋರಿಸಬಹುದು."
   }
 }

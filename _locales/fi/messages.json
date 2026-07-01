@@ -6701,7 +6701,7 @@
     "messageformat": "Päivitys ladattu"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Siirry App Storeen"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Avaa Signal puhelimessa"
@@ -8272,9 +8272,9 @@
     "messageformat": "Korjasimme tarrojen luontisovelluksen virheen, joka näytti käyttöliittymän väärällä kielellä."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Ryhmän ylläpitäjät voivat nyt poistaa ryhmäkeskustelusta äskettäin lähetetyt viestit. Voit helposti nähdä, milloin viesti on poistettu ja kuka sen on poistanut, aivan kuten nykyisessä Poista kaikilta -toiminnossa."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Lisäksi nostimme kiinnitettyjen keskustelujen enimmäismäärää neljästä kymmeneen."
   }
 }

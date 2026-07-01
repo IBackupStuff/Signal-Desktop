@@ -6701,7 +6701,7 @@
     "messageformat": "Actualització descarregada"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Fes clic per anar a l'App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Obriu el Signal al telèfon."
@@ -8272,9 +8272,9 @@
     "messageformat": "Hem solucionat un error al creador d'stickers que feia que la interfície es mostrés en l'idioma incorrecte."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Ara, els admins de grup poden eliminar missatges enviats recentment a un xat grupal. Igual que amb la funció actual \"Eliminar per a tothom\", podràs veure fàcilment quan s'ha eliminat (i qui ho ha fet)."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "També hem augmentat el nombre màxim de xats fixats de 4 a 10."
   }
 }

@@ -6701,7 +6701,7 @@
     "messageformat": "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੀ ਗਈ"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "App Store 'ਤੇ ਜਾਣ ਲਈ ਕਲਿੱਕ ਕਰੋ"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ Signal ਖੋਲ੍ਹੋ"
@@ -8272,9 +8272,9 @@
     "messageformat": "ਅਸੀਂ ਸਟਿੱਕਰ ਕ੍ਰੀਏਟਰ ਵਿੱਚ ਇੱਕ ਬੱਗ ਠੀਕ ਕੀਤਾ ਹੈ ਜਿਸ ਵਿੱਚ ਇੰਟਰਫੇਸ ਗਲਤ ਭਾਸ਼ਾ ਵਿੱਚ ਦਿਖਾਈ ਦਿੰਦਾ ਸੀ।"
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "ਗਰੁੱਪ ਐਡਮਿਨ ਹੁਣ ਗਰੁੱਪ ਚੈਟ ਵਿੱਚ ਹਾਲ ਹੀ ਵਿੱਚ ਭੇਜੇ ਗਏ ਸੁਨੇਹਿਆਂ ਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹਨ। ਤੁਸੀਂ ਆਸਾਨੀ ਨਾਲ ਦੇਖ ਸਕਦੇ ਹੋ ਕਿ ਸੁਨੇਹਾ ਕਦੋਂ ਮਿਟਾਇਆ ਗਿਆ ਸੀ ਅਤੇ ਇਸਨੂੰ ਕਿਸਨੇ ਹਟਾਇਆ ਸੀ, ਬਿਲਕੁਲ ਸਾਡੇ ਮੌਜੂਦਾ \"ਹਰੇਕ ਲਈ ਮਿਟਾਓ\" ਫੀਚਰ ਦੀ ਤਰ੍ਹਾਂ।"
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "ਅਸੀਂ ਪਿੰਨ ਕੀਤੀਆਂ ਜਾ ਸਕਣ ਵਾਲੀਆਂ ਚੈਟਾਂ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਗਿਣਤੀ 4 ਤੋਂ ਵਧਾ ਕੇ 10 ਕਰ ਦਿੱਤੀ ਹੈ।"
   }
 }

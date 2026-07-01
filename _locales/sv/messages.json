@@ -6701,7 +6701,7 @@
     "messageformat": "Uppdatering nedladdad"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Klicka för att gå till App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Öppna Signal på din telefon"
@@ -8272,9 +8272,9 @@
     "messageformat": "Vi har åtgärdat ett fel i klistermärkesskaparen som gjorde att gränssnittet visades på fel språk."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Gruppadministratörer kan nu radera nyligen skickade meddelanden i en gruppchatt. Du ser enkelt när ett meddelande har raderats och vem som tog bort det, precis som med den befintliga funktionen \"Radera för alla\""
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Vi har även ökat det maximala antalet fästa chattar från fyra till tio."
   }
 }

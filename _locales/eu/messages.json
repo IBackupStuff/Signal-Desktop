@@ -6701,7 +6701,7 @@
     "messageformat": "Deskargatu da eguneraketa"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Egin klik aplikazio-dendara joateko"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Ireki Signal telefonoan"
@@ -8272,9 +8272,9 @@
     "messageformat": "Interfazea hizkuntza okerrean bistaratzen zuen akats bat konpondu dugu eranskailu-sortzailean."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Orain, taldeen adminek azkenaldian bidalitako mezuak ezaba ditzakete taldeko txatetan. Erraz ikusi ahalko duzu mezu bat noiz ezabatu den eta nork kendu duen, \"Ezabatu guztientzat\" eginbidearekin bezala."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Halaber, ainguratutako txaten gehieneko kopurua handitu dugu, 4tik 10era."
   }
 }

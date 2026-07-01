@@ -6701,7 +6701,7 @@
     "messageformat": "Frissítés letöltve"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Az App Store megnyitásához kattints"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Nyisd meg a Signalt a telefonodon!"
@@ -8272,9 +8272,9 @@
     "messageformat": "Kijavítottunk egy hibát a matricakészítőben, amely miatt a felület rossz nyelven jelent meg."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "A csoport adminisztrátorai mostantól törölhetik a legutóbb elküldött üzeneteket a csoportos csevegésben. Könnyedén megláthatod, ha töröltek egy üzenetet, és hogy ki távolította el azt, akárcsak a meglévő „Törlés mindenkinek” funkció esetén."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "A rögzített csevegések maximális számát 4-ről 10-re növeltük."
   }
 }

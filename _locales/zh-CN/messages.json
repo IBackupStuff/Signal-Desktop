@@ -6701,7 +6701,7 @@
     "messageformat": "更新已下载完毕"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "点击前往 App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "在您的手机上打开Signal"
@@ -8272,9 +8272,9 @@
     "messageformat": "我们修复了贴纸创建器中的一个错误，该错误会导致界面显示为错误的语言。"
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "群组管理员现在可以删除群组聊天中最近发送的消息。就像现有的“对所有人删除”功能一样，您可以轻松查看消息被删除的时间以及是被谁删除的。"
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "我们还将置顶聊天的最大数量从 4 个增加到了 10 个。"
   }
 }

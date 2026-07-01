@@ -6701,7 +6701,7 @@
     "messageformat": "已經下載咗更新"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "點擊跳去 App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "喺手機度打開 Signal"
@@ -8272,9 +8272,9 @@
     "messageformat": "我們修正咗貼圖製作器入面攪到介面顯示嘅語言唔啱嘅錯誤。就算貼圖係圖（所謂「一圖勝千言」），但文字都要寫啱至得㗎。"
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "谷嘅管理員而家可以刪除聊天谷入面最近發送嘅訊息。如果有人唔小心喺你嘅「讀書會」谷度發咗劇透內容，之後放低手機走咗，谷嘅管理員可以即刻刪除個訊息，唔好攪到大家睇峰迴路轉嘅劇情都冇晒癮。你可以輕鬆睇到訊息幾時俾人刪除同埋俾邊個剔走，就好似而家嘅「喺所有人部機度刪除」功能一樣。"
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "我哋仲將「釘選聊天」嘅上限由 4 個加到 10 個，咁你就可以同多 6 個朋友講你有幾鍾意佢哋講嘅嘢。"
   }
 }

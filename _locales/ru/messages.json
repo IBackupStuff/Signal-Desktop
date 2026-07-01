@@ -6701,7 +6701,7 @@
     "messageformat": "Обновление загружено"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Нажмите, чтобы перейти в App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Откройте Signal на своем телефоне"
@@ -8272,9 +8272,9 @@
     "messageformat": "Мы исправили ошибку в создателе стикеров, из-за которой интерфейс отображался на неправильном языке. Несмотря на то, что стикеры представляют собой картинки (и, следовательно, стоят тысячи слов), правильно подбирать слова всё равно очень важно."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Администраторы групп теперь могут удалять недавно отправленные сообщения в групповом чате. Если кто-то случайно разместит спойлер в вашей группе «Книжный клуб», а затем отойдёт от телефона, администратор группы может удалить его сообщение и сохранить интригу для остальных. Вы легко можете посмотреть, кем и когда удалено сообщение, как и в существующей функции «Удалить для всех»."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Мы также увеличили максимальное количество прикреплённых чатов с 4 до 10."
   }
 }

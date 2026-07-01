@@ -6701,7 +6701,7 @@
     "messageformat": "Новата верзија е преземена"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Кликнете за да отидете до App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Отворете Signal на вашиот телефон"
@@ -8272,9 +8272,9 @@
     "messageformat": "Решивме грешка во креаторот на налепници при која се прикажуваше интерфејсот во погрешен јазик."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Администраторите на групи сега можат да ги бришат неодамна испратените пораки во групен разговор. Лесно можете да видите кога некоја порака е избришана и кој ја избришал, исто како со функцијата „Избриши за сите“."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Исто така, го зголемивме максималниот број на закачени разговори од 4 на 10."
   }
 }

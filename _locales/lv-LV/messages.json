@@ -6701,7 +6701,7 @@
     "messageformat": "Atjauninājums ir lejupielādēts"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Klikšķiniet, lai dotos uz App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Atveriet Signal tālrunī"
@@ -8272,9 +8272,9 @@
     "messageformat": "Mēs uzlīmju izveides programmā salabojām kļūdu, kuras dēļ saskarne tika rādīta nepareizā valodā. Lai gan uzlīmes ir attēli (un tāpēc tās ir tūkstoš vārdu vērtas), mums šķiet svarīgi uzrakstīt pareizi arī vārdus."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Grupas administratori tagad var dzēst jaunākās ziņas grupas tērzētavā. Ja kāds jūsu grāmatu kluba grupā nejauši publicē spoileri un noliek telefonu malā, grupas administrators tagad var to izdzēst, lai nesabojātu citiem sižetu. Varat ērti redzēt, kad ziņa tika izdzēsta un kurš to izdzēsa, tāpat kā ar esošo funkciju ”Dzēst visiem”."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Tāpat mēs palielinājām maksimālo piesprausto sarunu skaitu no 4 uz 10. Tagad jūs varat vēl 6 cilvēkiem parādīt, cik ļoti jums rūp viņu sakāmais."
   }
 }

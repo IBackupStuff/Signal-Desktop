@@ -6701,7 +6701,7 @@
     "messageformat": "अपडेट किया गया"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "App Store पर जाने के लिए क्लिक करें"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "अपने फ़ोन पर Signal खोलें"
@@ -8272,9 +8272,9 @@
     "messageformat": "हमने स्टिकर क्रिएटर की एक गड़बड़ी को ठीक कर दिया है, जिसकी वजह से ऐप की स्क्रीन किसी दूसरी भाषा में दिख रही थी। यह बात ठीक है कि स्टिकर तस्वीरें हैं (और जैसा कहा जाता है कि एक तस्वीर हज़ार शब्दों के बराबर होती है), लेकिन शब्दों का सही तरीके से नज़र आना भी उतना ही ज़रूरी है।"
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "ग्रुप ऐडमिन अब ग्रुप चैट में हाल ही में भेजे गए मैसेज डिलीट कर सकते हैं। अगर आपके 'बुक क्लब' ग्रुप में कोई गलती से किसी सस्पेंस कहानी का अंत पोस्ट कर दे और उसे डिलीट करने से पहले ही अपने फ़ोन से दूर हो जाए, तो ग्रुप ऐडमिन के पास उसे डिलीट करने का विकल्प होता है, ताकि कहानी का ट्विस्ट बना रहे। आपको दिख जाएगा कि कोई मैसेज कब डिलीट किया गया और उसे किसने हटाया, ठीक वैसे ही जैसे मौजूदा 'सभी के लिए डिलीट करें' फ़ीचर में होता है।"
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "हमने पिन की गई चैट की अधिकतम संख्या को भी 4 से बढ़ाकर 10 कर दिया है, ताकि आप 6 और लोगों को दिखा सकें कि उनकी बातें आपको कितनी पसंद हैं।"
   }
 }

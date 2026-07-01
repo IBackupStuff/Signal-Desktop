@@ -6701,7 +6701,7 @@
     "messageformat": "আপডেট ডাউনলোড হয়েছে"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "App Store-এ যেতে ক্লিক করুন"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "আপনার ফোনে সিগন্যাল খুলুন"
@@ -8272,9 +8272,9 @@
     "messageformat": "আমরা স্টিকার ক্রিয়েটর-এর একটি বাগ সংশোধন করেছি, যার কারণে ইন্টারফেইসটি ভুল ভাষায় দেখানো হচ্ছিলো।"
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "গ্রুপ অ্যাডমিনরা এখন কোনো গ্রুপ চ্যাট থেকে সম্প্রতি পাঠানো মেসেজ মুছে ফেলতে পারবেন। বিদ্যমান 'সবার জন্য মুছে ফেলুন' ফিচারটির মতোই, আপনি সহজেই দেখতে পারবেন কখন একটি মেসেজ মুছে ফেলা হয়েছে এবং কে তা মুছে ফেলেছেন।"
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "আমরা পিন করা চ্যাটের সর্বোচ্চ সংখ্যাও 4টি থেকে বাড়িয়ে 10টি করেছি।"
   }
 }

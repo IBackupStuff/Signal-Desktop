@@ -6701,7 +6701,7 @@
     "messageformat": "అప్‌డేట్ డౌన్‌లోడ్ చేయబడింది"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "App Store కు వెళ్లడానికి క్లిక్ చేయండి"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "మీ ఫోన్‌పై Signal ని ఓపెన్ చేయండి"
@@ -8272,9 +8272,9 @@
     "messageformat": "స్టిక్కర్ క్రియేటర్‌లో ఇంటర్‌ఫేస్‌ను తప్పు భాషలో ప్రదర్శించిన ఒక బగ్‌ను మేము సరిచేశాము. స్టిక్కర్‌లు చిత్రాలే అయినప్పటికీ (అందువల్లనే వెయ్యి మాటలతో సమానం), పదాలను సరిగ్గా ఎంచుకోవడం కూడా ఇప్పటికీ ముఖ్యమే."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "గ్రూప్ అడ్మిన్‌లు ఇప్పుడు గ్రూప్ చాట్‌లో ఇటీవల పంపిన సందేశాలను తొలగించగలరు. ఒకవేళ ఎవరైనా మీ బుక్ క్లబ్ గ్రూప్‌లో పొరపాటున స్పాయిలర్‌ను పోస్ట్ చేసి, ఆ తర్వాత తమ ఫోన్ నుండి దూరంగా వెళ్ళిపోతే, కథలోని మలుపు చెక్కుచెదరకుండా ఉండేలా గ్రూప్ అడ్మిన్ దానిని తొలగించగలరు. ఇప్పటికే ఉన్న 'అందరికీ తొలగించండి' ఫీచర్ లాగే, ఒక సందేశం ఎప్పుడు తొలగించబడిందో, ఎవరు తొలగించారో మీరు సులభంగా చూడవచ్చు.\n\n"
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "మేము పిన్ చేసిన చాట్‌ల గరిష్ట సంఖ్యను కూడా 4 నుండి 10 కి పెంచాము."
   }
 }

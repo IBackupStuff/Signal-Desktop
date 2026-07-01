@@ -6701,7 +6701,7 @@
     "messageformat": "Update heruntergeladen"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Klicke hier, um zum App Store zu gelangen"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Öffne Signal auf deinem Telefon"
@@ -8272,9 +8272,9 @@
     "messageformat": "Wir haben einen Fehler im Sticker-Creator behoben, der die Benutzeroberfläche in der falschen Sprache anzeigte. Auch wenn Sticker Bilder sind (und somit mehr sagen als tausend Worte), ist es dennoch wichtig, die richtigen Worte zu finden."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Gruppenadminis können jetzt kürzlich gesendete Nachrichten in einem Gruppenchat löschen. Wenn jemand in eurem Buchclub versehentlich zu viel verrät und dann das Handy beiseite legt, kann ein Gruppenadmin den Beitrag löschen, damit der Plot-Twist nicht vorweggenommen wird. Du kannst ganz einfach erkennen, wann eine Nachricht gelöscht wurde und wer sie entfernt hat – genau wie bei der bestehenden Funktion »Für alle löschen«."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Außerdem haben wir die maximale Anzahl der fixierten Chats von 4 auf 10 erhöht, damit du 6 weiteren Leuten zeigen kannst, wie sehr dir gefällt, was sie zu erzählen haben."
   }
 }

@@ -6701,7 +6701,7 @@
     "messageformat": "Update concluído"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Clique para abrir a App Store. "
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Abra o Signal no seu celular"
@@ -8272,9 +8272,9 @@
     "messageformat": "Corrigimos um erro no criador de figurinhas que mostrava o idioma errado na interface. A gente sabe que as figurinhas são imagens e valem mais que mil palavras, mas também é importante usar as palavras certas, né?"
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Os administradores de grupos agora podem apagar mensagens enviadas recentemente em conversas em grupo.Você pode ver facilmente quando uma mensagem foi apagada e quem a removeu, assim como no recurso \"Apagar para todos\". "
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Também aumentamos o limite de conversas fixadas de 4 para 10. "
   }
 }

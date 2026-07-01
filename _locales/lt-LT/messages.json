@@ -6701,7 +6701,7 @@
     "messageformat": "Naujinys atsisiųstas"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Spustelėkite eiti į „App Store“"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Atverkite savo telefone Signal programėlę"
@@ -8272,9 +8272,9 @@
     "messageformat": "Ištaisėme lipdukų kūrimo priemonės klaidą, dėl kurios sąsaja buvo rodoma neteisinga kalba."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Nuo šiol grupių administratoriai grupės pokalbyje gali ištrinti neseniai išsiųstas žinutes. Galėsite lengvai matyti, kai žinutė buvo ištrinta, ir kas ją ištrynė, visai kaip ir naudojant jau esamą funkciją „Ištrinti visiems“."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Be to, padidinome didžiausią leidžiamą prisegtų pokalbių skaičių nuo 4 iki 10."
   }
 }

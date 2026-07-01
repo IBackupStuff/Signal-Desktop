@@ -6701,7 +6701,7 @@
     "messageformat": "يېڭىلانما چۈشۈرۈلدى"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "چېكىپ App Store غا كىرىڭ"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "تېلېفونىڭىزدا Signal نى ئېچىڭ"
@@ -8272,9 +8272,9 @@
     "messageformat": "بىز چىراي ئىپادە ياساش قورالىدىكى كۆرۈنمە يۈزنىڭ خاتا تىلدا كۆرسىتىلىشىگە سەۋەب بولغان بىر خاتالىقنى تۈزەتتۇق .8.16 نەشر نۇسخىسى ئۈچۈن تارقىتىلدى. گەرچە چىراي ئىپادىلىرى رەسىم بولغاچقا «مىڭ سۆزنىڭ قىممىتىگە ئىگە» دەپ قارالسىمۇ، سۆزلەرنىمۇ توغرا ئىشلىتىش يەنىلا ناھايىتى مۇھىم."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "گۇرۇپپا باشقۇرغۇچىلىرى ئەمدى گۇرۇپپا سۆھبىتىدە يېقىندا ئەۋەتىلگەن ئۇچۇرلارنى ئۆچۈرەلەيدۇ. ئەگەر بىرى كىتاب كۇلۇبى گۇرۇپپىڭىزدا ئېھتىياتسىزلىقتىن ۋەقەنىڭ مۇھىم مەزمۇنىنى ئاشكارىلايدىغان ئۇچۇرنى يوللاپ قويۇپ تېلېفونىدىن يىراقلاپ كەتسە، گۇرۇپپا باشقۇرغۇچىسى ئۇنى ئۆچۈرۈپ، يېڭىلىق كەيپىياتىنى ساقلاپ قالالايدۇ. ھازىرقى «ھەممەيلەن ئۈچۈن ئۆچۈرۈش» ئىقتىدارىدىكىگە ئوخشاش، ئۇچۇرنىڭ قاچان ئۆچۈرۈلگەنلىكىنى ۋە ئۇنى كىمنىڭ ئۆچۈرگەنلىكىنى ئاسانلا كۆرەلەيسىز."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "بىز يەنە مىقلىغىلى بولىدىغان سۆھبەتلەرنىڭ ئەڭ كۆپ سانىنى 4 تىن 10 غا كۆپەيتتۇق. 8.17 نەشىر نۇسخىسى ئۈچۈن تارقىتىلدى."
   }
 }

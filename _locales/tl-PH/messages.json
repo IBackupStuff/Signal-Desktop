@@ -6701,7 +6701,7 @@
     "messageformat": "Na-download na ang Update"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "I-click para pumunta sa App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "I-open ang Signal sa iyong phone"
@@ -8272,9 +8272,9 @@
     "messageformat": "Inayos namin ang isang bug sa sticker creator na nagpapakita ng interface sa maling language."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Maaari nang burahin ng group admins ang recently sent messages sa isang group chat. Makikita mo agad kapag binura ang isang message at kung sinong nagbura nito, katulad ng nasa \"Delete for Everyone\" feature.\n\n"
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Dinagdagan din namin ang maximum number ng pinned chats mula 4 hanggang 10."
   }
 }

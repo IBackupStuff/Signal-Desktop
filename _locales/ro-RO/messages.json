@@ -6701,7 +6701,7 @@
     "messageformat": "Actualizare Descărcată"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Dă clic și mergi la App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Deschide Signal pe telefonul tău"
@@ -8272,9 +8272,9 @@
     "messageformat": "Am reparat un bug în creatorul de abțibilduri care afișa interfața în limba greșită. Deși abțibildurile sunt imagini (deci valorează o mie de cuvinte) este important totuși să nimerești cuvintele potrivite."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Administratorii grupurilor pot șterge acum mesajele trimise recent într-o conversație de grup. Dacă cineva postează din greșeală un spoiler în „Clubul de lectură”, un administrator al grupului îl poate șterge. Poți vedea când a fost șters un mesaj și cine l-a șters, la fel ca în cazul funcției existente „Șterge pentru toți”.\n\n"
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "• Am mărit și numărul maxim de conversații fixate, de la 4 la 10, astfel încât să poți arăta altor 6 persoane cât de mult îți plac."
   }
 }

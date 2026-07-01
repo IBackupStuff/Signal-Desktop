@@ -6701,7 +6701,7 @@
     "messageformat": "Posodobitev prenesena"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Kliknite, da odprete App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Odprite Signal v svoji napravi"
@@ -8272,9 +8272,9 @@
     "messageformat": "Odpravili smo napako v urejevalniku nalepk, zaradi katere je bil uporabniški vmesnik prikazan v napačnem jeziku. Čeprav so nalepke slike (in zato povedo več kot tisoč besed), je še vedno pomembno, da so tudi besede pravilne."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Skrbniki skupine lahko zdaj izbrišejo nedavno poslana sporočila v skupinskem klepetu. Preprosto lahko vidite, kdaj je bilo sporočilo izbrisano in kdo ga je izbrisal, tako kot pri obstoječi funkciji »Izbriši za vse«."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Povečali smo tudi največje dovoljeno število pripetih klepetov s 4 na 10."
   }
 }

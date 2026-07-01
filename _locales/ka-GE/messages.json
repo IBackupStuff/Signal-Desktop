@@ -6701,7 +6701,7 @@
     "messageformat": "განახლება გადმოწერილია"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "დააწკაპუნე App Store-ზე გადასასვლელად"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "გახსენი Signal-ი შენს ტელეფონში"
@@ -8272,9 +8272,9 @@
     "messageformat": "სტიკერების შემქმნელის ბაგი გამოვასწორეთ, რომლის გამოც ინტერფეისი არასწორ ენაზე ჩანდა. მიუხედავად იმისა, რომ სტიკერი სურათია, სათაურიც სწორად უნდა ჩანდეს."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "ახლა ჯგუფის ადმინისტრატორებს შეუძლიათ ჯგუფის ჩატში ბოლოს გაგზავნილი წერილები წაშალონ. თუ შენი ლიტერატურული კლუბის ჩატში ვინმე შემთხვევით სპოილერს დაწერს და აპიდან გავა, შენი ჯგუფის ადმინისტრატორი შეძლებს წერილი წაშალოს, რომ ფლოთ ტვისტი არ გაიგოთ. მარტივად შეძლებ ნახო, როდის წაიშალა წერილი და ვის მიერ, როგორც არსებული \"ყველასთვის წაშლის\" ფუნქციის შემთხვევაში."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "ასევე, აპინული ჩატების მაქსიმალური რაოდენობა 4-დან 10-მდე გავზარდეთ."
   }
 }

@@ -6701,7 +6701,7 @@
     "messageformat": "အပ်ဒိတ် ဒေါင်းလုဒ်လုပ်ပြီး"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "App Store သို့သွားရန် နှိပ်ပါ"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "သင့်ဖုန်းတွင် Signal ကို ဖွင့်ရန်"
@@ -8272,9 +8272,9 @@
     "messageformat": "စတစ်ကာဖန်တီးရေးတွင် Interface ကို မှားယွင်းသော ဘာသာစကားဖြင့် ပြသနေသည့် ချွတ်ယွင်းချက်တစ်ခုကို ပြင်ဆင်ပြီးဖြစ်ပါသည်။"
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "အဖွဲ့အက်ဒ်မင်များသည် ယခုအခါ အဖွဲ့ချက်(တ်)အတွင်း မကြာသေးမီက ပို့ထားသော မက်ဆေ့ချ်များကို ဖျက်နိုင်ပါပြီ။ ရှိပြီးသားဖြစ်သော “အားလုံးအတွက်ဖျက်မည်” အင်္ဂါရပ်ကဲ့သို့ပင် မက်ဆေ့ချ်တစ်ခုကို မည်သည့်အချိန်တွင် မည်သူက ဖျက်လိုက်သည်ကို အလွယ်တကူ မြင်နိုင်ပါသည်။"
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "အများဆုံးပင်တွဲနိုင်သည့် ချက်(တ်) အရေအတွက်ကိုလည်း 4 ခုမှ 10 ခုအထိ တိုးမြှင့်လိုက်ပါပြီ။"
   }
 }

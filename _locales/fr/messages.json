@@ -6701,7 +6701,7 @@
     "messageformat": "Mise à jour téléchargée"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Cliquez pour accéder à l'App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Ouvrez Signal sur votre téléphone"
@@ -8272,9 +8272,9 @@
     "messageformat": "L'outil de création de stickers s'affichait dans la mauvaise langue ? C'est de l'histoire ancienne. Même si les stickers sont des images et qu'une image vaut mille mots, nous n'allions pas laisser ce bug avoir le dernier mot."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Dans les conversations de groupe, les admins peuvent désormais supprimer les messages récents. Si un membre un peu étourdi de votre club de lecture dévoile un spoiler, l'admin peut vite supprimer le message pour préserver le mystère.  Vous savez donc si un message a été supprimé et par qui, exactement comme avec la fonctionnalité \"Supprimer pour tout le monde\". "
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Le nombre maximal de conversations épinglées passe quant à lui de 4 à 10. De quoi faire 6 heureux de plus !"
   }
 }

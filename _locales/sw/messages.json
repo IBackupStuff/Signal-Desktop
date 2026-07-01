@@ -6701,7 +6701,7 @@
     "messageformat": "Sasisho Limepakuliwa"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Bofya kuenda kwa App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Fungua Signal kwenye simu yako"
@@ -8272,9 +8272,9 @@
     "messageformat": "Tumerekebisha hitilafu kwenye programu ya kutengeneza vibadiko ambavyo vilikuwa vikionyesha kiolesura katika lugha isiyo sahihi. Ingawa vibandiko ni picha (na picha husema mengi), bado ni muhimu kuhakikisha kwamba maneno nayo yako sahihi."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Admin wa kikundi sasa anaweza kufuta jumbe za hivi majuzi katika gumzo la kikundi. Iwapo mtu atachapisha kimakosa kidokezo kwenye kikundi chenu cha Usomaji Vitabu na kisha kuacha simu yake, admin wa kikundi anaweza kukifuta ili kudumisha shauku. Unaweza kuona kwa urahisi ujumbe unapofutwa na nani aliyeuondoa, kama kilivyo kipengele cha \"Futa kwa Kila Mtu\".\n\n"
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Pia tumeongeza idadi ya magumzo yanayobandikwa kutoka 4 hadi 10, ili uonyeshe watu 6 zaidi jinsi unavyopendelea wanachozungumzia."
   }
 }

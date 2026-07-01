@@ -6701,7 +6701,7 @@
     "messageformat": "புதுப்பிப்பு பதிவிறக்கப்பட்டது"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "ஆப் ஸ்டோருக்குச் செல்ல கிளிக் செய்யவும்"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "உங்கள் மொபைலில் சிக்னல்-ஐத் திறக்கவும்"
@@ -8272,9 +8272,9 @@
     "messageformat": "ஸ்டிக்கர் கிரியேட்டரில் இடைமுகத்தை தவறான மொழியில் காட்டக்கூடிய ஒரு பிழையைச் சரிசெய்தோம்."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "தொகுப்பு நிர்வாகிகளால் இனி தொகுப்பு உரையாடலில் அண்மையில் அனுப்பப்பட்ட செய்திகளை நீக்க முடியும். தற்போதுள்ள \"அனைவருக்கும் நீக்கு\" அம்சத்தைப் போலவே, ஒரு செய்தி எப்போது நீக்கப்பட்டது மற்றும் அதை யார் நீக்கினார்கள் என்பதை நீங்கள் எளிதாகக் காணலாம்."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "பின் செய்யப்பட்ட உரையாடல்களின் அதிகபட்ச எண்ணிக்கையை 4 இல் இருந்து 10 ஆக நாங்கள் உயர்த்தியுள்ளோம்."
   }
 }

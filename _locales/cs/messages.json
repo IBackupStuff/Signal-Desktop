@@ -6701,7 +6701,7 @@
     "messageformat": "Aktualizace stažena"
   },
   "icu:DialogExpiredBuild__upgrade-mas": {
-    "messageformat": "Click to go to the App Store"
+    "messageformat": "Kliknutím přejdete do App Store"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
     "messageformat": "Otevřete Signal na svém telefonu"
@@ -8272,9 +8272,9 @@
     "messageformat": "Opravili jsme chybu v nástroji na tvorbu nálepek, kvůli které se rozhraní zobrazovalo v nesprávném jazyce."
   },
   "icu:WhatsNew__8.17--0": {
-    "messageformat": "Group admins can now delete recently sent messages in a group chat. If someone accidentally posts a spoiler in your Book Club group and then walks away from their phone, a group admin can delete it to keep the plot twist intact. You can easily see when a message was deleted and who removed it, just like the existing \"Delete for Everyone\" feature."
+    "messageformat": "Správci skupin nyní mohou odstranit nedávno odeslané zprávy ve skupinovém chatu. Stejně jako u stávající funkce Odstranit u všech můžete snadno zjistit, kdy byla zpráva odstraněna a kým."
   },
   "icu:WhatsNew__8.17--1": {
-    "messageformat": "We also increased the maximum number of pinned chats from 4 to 10, so you can show 6 more people how much you love what they have to say."
+    "messageformat": "Zvýšili jsme také maximální počet připnutých chatů ze 4 na 10."
   }
 }
