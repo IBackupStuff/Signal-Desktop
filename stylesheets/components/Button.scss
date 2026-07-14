@@ -161,7 +161,7 @@
 
     &[disabled],
     &--discouraged {
-      color: var(--axo-color-label-disabled-oncolor);
+      color: var(--axo-color-label-disabled);
     }
 
     &:focus {
@@ -182,13 +182,7 @@
       display: block;
       height: 18px;
       width: 18px;
-
-      @include mixins.light-theme {
-        @include mixins.color-svg($icon, variables.$color-black);
-      }
-      @include mixins.dark-theme {
-        @include mixins.color-svg($icon, variables.$color-gray-05);
-      }
+      @include mixins.color-svg($icon, currentColor);
     }
 
     &--audio::before {
