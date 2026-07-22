@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} படிக்காத செய்தி} other {{count,number} படிக்காத செய்திகள்}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "அனைத்தையும் படித்தாக குறியிடு"
@@ -2826,16 +2826,16 @@
     "messageformat": "அகற்று"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "ஸ்டிக்கர் பேக்கை மறுவரிசைப்படுத்த இழுக்கவும்"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "சிக்னல் ஆர்ட்டிஸ்ட் சீரிஸ் ஸ்டிக்கர் பேக்குகள்"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "பெறப்பட்ட ஸ்டிக்கர் பேக்குகள்"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "நிறுவப்பட்ட ஸ்டிக்கர் பேக்குகள்"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "ஸ்டிக்கர் பேக்"
@@ -3081,16 +3081,16 @@
     "messageformat": "ஒரு ஸ்டிக்கரைச் சேர்க்கவும்"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "பதில்"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "அனுப்புக"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "ரத்துசெய்"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "ஒட்டிப்படம்"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "ரத்துசெய்"
@@ -8668,9 +8668,9 @@
     "messageformat": "தொகுப்பு நிர்வாகிகள் இப்போது தொகுப்பு அமைப்புகளில் புதிய \"தொகுப்பை முடி\" விருப்பத்துடன் உரையாடல்களை ஒரு முடிவுக்கு கொண்டு வரலாம். ஒரு தொகுப்பை முடிப்பது தொகுப்பு உறுப்பினர்கள் செய்திகளை அனுப்புவதிலிருந்தோ அல்லது அழைப்புகளை மேற்கொள்வதிலிருந்தோ தடுக்கிறது. மேலும் அழைப்புகளை முடக்குகிறது."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "மறையும் அழைப்பு நிகழ்வுகள் அறிமுகப்படுத்தப்பட்டுள்ளன: இந்தப் புதுப்பிப்பை நீங்கள் நிறுவிய பின், இனி 'மறையும் செய்திகள்' அம்சம் இயக்கப்பட்டுள்ள எந்தவொரு உரையாடலிலும் நிகழும் தவறவிட்ட, வெளிச்சென்ற மற்றும் பெறப்பட்ட அழைப்புகள் தானாகவே மறைந்துவிடும்."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "இப்போது நீங்கள் நிறுவப்பட்ட ஸ்டிக்கர் பேக்குகளை மறுவரிசைப்படுத்தலாம், எனவே உங்களுக்குப் பிடித்தவை வரியின் பின்புறத்தில் சிக்காமல் இருக்கும்."
   }
 }

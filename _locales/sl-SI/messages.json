@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} neprebrano sporočilo} two {{count,number} neprebrani sporočili} few {{count,number} neprebrana sporočila} other {{count,number} neprebranih sporočil}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Označi vse kot prebrano"
@@ -2826,16 +2826,16 @@
     "messageformat": "Odstrani"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Potegnite za spremembo vrstnega reda paketa nalepk"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Serija Signalovi umetniki: paketi nalepk"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Prejeti paket nalepk"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Nameščeni paketi nalepk"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Paket nalepk"
@@ -3081,16 +3081,16 @@
     "messageformat": "Dodaj nalepko"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Odgovori"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Pošlji"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Prekliči"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Nalepka"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Prekliči"
@@ -8668,9 +8668,9 @@
     "messageformat": "Administratorji skupin lahko zdaj pogovore zaključijo na naraven način z novo možnostjo »Zaključi skupino« v nastavitvah skupine. Končanje skupine članom prepreči pošiljanje sporočil ali začetek klicev ter onemogoči povabila."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Predstavljamo izginjajoče klicne aktivnosti: neodgovorjeni, odhodni in dohodni klici, ki se zgodijo po namestitvi te posodobitve, bodo samodejno izginili v vseh klepetih, kjer so omogočena izginjajoča sporočila."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Zdaj lahko spremenite vrstni red paketov nalepk, da vaši novi najljubši ne bodo ostali na koncu seznama."
   }
 }

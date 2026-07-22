@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, other {{count,number} tin nhắn chưa đọc}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Đánh dấu tất cả đã đọc"
@@ -2826,16 +2826,16 @@
     "messageformat": "Xóa"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Kéo để sắp xếp lại gói nhãn dán"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Gói nhãn dán Nghệ sĩ Signal"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Gói nhãn dán"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Gói nhãn dán đã cài"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Gói Nhãn dán"
@@ -3081,16 +3081,16 @@
     "messageformat": "Thêm một Sticker"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Trả lời"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Gửi"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Hủy"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Nhãn dán"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Hủy"
@@ -8668,9 +8668,9 @@
     "messageformat": "Quản trị viên nhóm giờ đây có thể kết thúc cuộc trò chuyện bằng tùy chọn \"Kết thúc nhóm\" mới trong cài đặt nhóm. Kết thúc nhóm sẽ ngăn các thành viên nhóm gửi tin nhắn hoặc bắt đầu cuộc gọi, đồng thời vô hiệu hóa lời mời."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Giới thiệu tính năng sự kiện cuộc gọi tự xóa: Các cuộc gọi nhỡ, cuộc gọi đi và cuộc gọi đến sau khi bạn cài đặt bản cập nhật này sẽ tự động biến mất trong bất kỳ cuộc trò chuyện nào đã bật tính năng tin nhắn tự xóa."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Giờ đây, bạn có thể sắp xếp lại các gói nhãn dán đã cài đặt để gói yêu thích mới của bạn không bị xếp ở cuối."
   }
 }

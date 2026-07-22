@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} ongeleesde boodskap} other {{count,number} ongeleesde boodskappe}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Merk alles as gelees"
@@ -2826,16 +2826,16 @@
     "messageformat": "Verwyder"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Sleep om plakkerpakket te herrangskik"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Plakkerpakkette in die Signal-kunstenaarreeks"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Ontvangde plakkerpakkette"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Geïnstalleerde plakkerpakkette"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Plakkerpakket"
@@ -3081,16 +3081,16 @@
     "messageformat": "Voeg ’n plakker toe"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Antwoord"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Stuur"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Kanselleer"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Plakker"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Kanselleer"
@@ -8668,9 +8668,9 @@
     "messageformat": "Groepadmins kan nou kletse beëindig met die nuwe \"Beëindig Groep\" in die groepinstellings. Beëindiging van 'n groep verhoed dat groeplede boodskappe stuur of oproepe begin, en dit deaktiveer ook uitnodigings."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Ons stel bekend - verdwynoproepgebeurtenisse: Misgeloopte, uitgaande en ontvangde oproepe wat plaasvind nadat jy hierdie opdatering geïnstalleer het, sal nou outomaties verdwyn in enige klets waar verdwynboodskappe geaktiveer is."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Jy kan nou jou geïnstalleerde plakkerpakkette herrangskik sodat jou nuwe gunstelinge nie agter in die ry vassteek nie."
   }
 }

@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} teachtaireacht neamhléite} two {{count,number} theachtaireacht neamhléite} few {{count,number} theachtaireacht neamhléite} many {{count,number} dteachtaireacht neamhléite} other {{count,number} teachtaireacht neamhléite}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Marcáil iad uile léite"
@@ -2826,16 +2826,16 @@
     "messageformat": "Bain de"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Tarraing chun an beart greamán a chur in ord nua"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Bearta greamán de chuid Shraith Ealaíontóirí Signal"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Bearta greamán a fuarthas"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Bearta greamán a suiteáladh"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Beart Greamán"
@@ -3081,16 +3081,16 @@
     "messageformat": "Cuir Greamán leis"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Freagair"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Seol"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Cuir ar ceal"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Greamán"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Cuir ar ceal"
@@ -8668,9 +8668,9 @@
     "messageformat": "Féadann riarthóirí grúpa comhráite críoch a chur le teachtaireachtaí anois leis an rogha nua \"Cuir Deireadh leis an nGrúpa\" i socruithe an ghrúpa. Cuirtear cosc ar bhaill den ghrúpa teachtaireachtaí a sheoladh nó glaonna a chur, agus díchumasaítear cuirí freisin, trí dheireadh a chur le grúpa."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Tús eolais ar imeachtaí glaonna a imíonn as radharc: Tar éis duit an nuashonrú seo a shuiteáil, imeoidh glaonna caillte, glaonna amach agus glaonna a fuarthas as radharc go huathoibríoch in aon chomhrá ina mbíonn teachtaireachtaí sealadacha cumasaithe."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Anois is féidir leat bearta greamán a suiteáladh a chur in ord nua ionas nach mbeidh do chuid ceanán nua gafa ar chúl na líne."
   }
 }

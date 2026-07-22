@@ -15,7 +15,7 @@
     "messageformat": "تازىلا"
   },
   "icu:AxoBadge.MaxOverflow": {
-    "messageformat": "{max,number}+"
+    "messageformat": "+{max,number}"
   },
   "icu:AddUserToAnotherGroupModal__title": {
     "messageformat": "گۇرۇپپىغا قوش"
@@ -321,7 +321,7 @@
     "messageformat": "+{maxCount,number}"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, other {{count,number} ئوقۇلمىغان ئۇچۇر}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "ھەممىسى ئوقۇلدى"
@@ -2826,16 +2826,16 @@
     "messageformat": "ئۆچۈرۈش"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "چاپلاق بولىقىنى تارتىپ قايتىدىن ئورۇنلاشتۇرۇڭ"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal ئارتىس يۈرۈشلۈكى چاپلاق بولاقلىرى"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "تاپشۇرۇۋېلىنغان چاپلاق بولاقلىرى"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "چۈشۈرۈۋېلىنغان چاپلاق بولاقلىرى"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "چاپلاق بوغچىسى"
@@ -3081,16 +3081,16 @@
     "messageformat": "چاپلاق قوش"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "جاۋاب"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "يوللاش"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "بىكار قىلىش"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "چىراي ئىپادە"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "بىكار قىلىش"
@@ -8668,9 +8668,9 @@
     "messageformat": "گۇرۇپپا باشقۇرغۇچىلىرى ئەمدى گۇرۇپپا تەڭشەكلىرىدىكى يېڭى «گۇرۇپپىنى تارقىتىۋېتىش» تاللىشى ئارقىلىق سۆھبەتلەرنى رەسمىي ئاخىرلاشتۇرالايدۇ. بىر گۇرۇپپىنى تاقىۋەتكەندە، ئۇ شۇ گۇرۇپپا ئەزالىرىنىڭ ئۇچۇر ئەۋەتىشىنى ياكى چاقىرىق قىلىشىنى توسىدۇ، ھەمدە گۇرۇپپىغا كىرىش تەكلىپلىرىنى ئەمەلدىن قالدۇرىدۇ. ئەمدى سىز ھەممەيلەننىڭ توغرا مۇزاكىرە تېمىسىدا تۇرۇشىغا كاپالەتلىك قىلالايسىز: يېڭى تىككۈچىلىك يىغىلىش گۇرۇپپىسىنى قۇرۇشتىن بۇرۇن، ئۆتكەن يىلدىكى تىككۈچىلىك ئۇچرىشىش گۇرۇپپىسىنى ئاخىرلاشتۇرۇڭ."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "غايىب بولۇش ئالدىدىكى تېلىفۇنلىشىقا ئالاقىدار ئەھۋاللار تونۇشتۇرۇلۇشى: بۇ يېڭىلاشنى ئورناتقاندىن كېيىن، غايىپ بولىدىغان ئىقتىدار قوزغىتىلغان ئەھۋالدا، ھەرقانداق سۆھبەتتە يۈز بەرگەن جاۋابسىز قالغان، ئۇرۇلغان ۋە قوبۇل قىلىنغان تېلېفونلارنىڭ خاتىرىلىرى ئاپتوماتىك ھالدا غايىب بولىدۇ."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "ھازىر سىز ئورنىتىلغان چاپلاق بولاقلىرىنى قايتىدىن رەتلىيەلەيسىز، ياقتۇرىدىغان چاپلاقلىرىڭىز تىزىملىكنىڭ كەينىگە ئۆتۈپ قالمايدۇ."
   }
 }

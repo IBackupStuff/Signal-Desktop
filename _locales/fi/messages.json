@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} lukematon viesti} other {{count,number} lukematonta viestiä}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Merkitse kaikki luetuiksi"
@@ -2826,16 +2826,16 @@
     "messageformat": "Poista"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Järjestele tarrapakettia vetämällä"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal Artist -sarjan tarrapaketit"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Saadut tarrapaketit"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Asennetut tarrapaketit"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Tarrapaketti"
@@ -3081,16 +3081,16 @@
     "messageformat": "Lisää tarra"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Vastaa"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Lähetä"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Peruuta"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Tarra"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Peruuta"
@@ -8668,9 +8668,9 @@
     "messageformat": "Ryhmän ylläpitäjät voivat nyt lopettaa keskustelut ryhmäasetuksissa olevan uuden Sulje ryhmä -vaihtoehdon avulla. Ryhmän lopettaminen estää ryhmän jäseniä lähettämästä viestejä tai aloittamasta puheluita, ja se poistaa myös kutsutoiminnon käytöstä."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Esittelyssä katoavat puhelutapahtumat: kun olet asentanut tämän päivityksen, kaikki sen jälkeiset vastaamattomat, lähtevät ja vastatut puhelut katoavat automaattisesti keskusteluista, joissa katoavat viestit ovat käytössä."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Voit tilata asennettuja tarrapaketteja uudelleen, ettei kulu suotta aikaa nykyisten suosikkien kaivamiseen esiin."
   }
 }

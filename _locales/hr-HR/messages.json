@@ -321,7 +321,7 @@
     "messageformat": "+{maxCount,number}"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} nepročitana poruka} few {{count,number} nepročitane poruke} many {{count,number} nepročitanih poruka} other {{count,number} nepročitanih poruka}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Označi sve kao pročitano"
@@ -2826,16 +2826,16 @@
     "messageformat": "Ukloni"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Povucite za promjenu rasporeda paketa naljepnica"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Paketi naljepnica Signalove umjetničke serije"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Paketi pristiglih naljepnica"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Instalirani paketi naljepnica"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Paket naljepnica"
@@ -3081,16 +3081,16 @@
     "messageformat": "Dodaj naljepnicu"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Odgovori"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Pošalji"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Odustani"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Naljepnica"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Odustani"
@@ -8668,9 +8668,9 @@
     "messageformat": "Administratori grupe sada mogu zatvoriti razgovore pomoću opcije „Zatvori grupni razgovor“ u postavkama grupe. Nakon zatvaranja grupnog razgovora članovi više neće moći slati poruke, započeti pozive niti slati pozivnice."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Predstavljamo nestajuće aktivnosti vezane za pozive: svi propušteni, odlazni i dolazni pozivi nakon ažuriranja aplikacije automatski će nestajati iz svih razgovora u kojima su omogućene poruke koje nestaju."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Sada možete promijeniti raspored paketa naljepnica koje ste instalirali, tako da vam omiljene naljepnice uvijek budu nadohvat ruke."
   }
 }

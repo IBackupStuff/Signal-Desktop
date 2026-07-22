@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} билдирүү окула элек} other {{count,number} билдирүү окула элек}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Баарын окулду деп белгилөө"
@@ -2826,16 +2826,16 @@
     "messageformat": "Алып салуу"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Стикерлер топтомунун иретин сүйрөп өзгөртөсүз"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal Artist Series стикерлер топтомдору"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Алынган стикерлер топтомдору"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Орнотулган стикерлер топтомдору"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Стикерлер топтому"
@@ -3081,16 +3081,16 @@
     "messageformat": "Стикер кошуу"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Жооп берүү"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Жөнөтүү"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Жок"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Стикер"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Жок"
@@ -8668,9 +8668,9 @@
     "messageformat": "★ Топтун администраторлору эми параметрлериндеги жаңы «Топту аяктоо» функциясы аркылуу маектерди өз нугунда жыйынтыктай алышат. Топ жабылганда, анын мүчөлөрү билдирүү жөнөтө албай же чала албай же чакырууларды жөнөтө албай калышат. Баары бир талкууда болушу үчүн жаңы топко которулардан мурун өткөн жылы тигүүчүлөр кездешкен топту жабыңыз.\n"
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "★ Назарыңызда жоголуп кетүүчү чалуулар функциясы: Бул функцияны орнотсоңуз, жооп берилбей калган, чыккан жана кирген чалуулар маектен автоматтык түрдө өчүп калат."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Эми орнотулган стикерлер топтомун иреттеп, сүйүктүүлөрүн алдыңкы катарга чыгарып алсаңыз болот."
   }
 }

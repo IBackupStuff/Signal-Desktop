@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} ಓದದಿರುವ ಸಂದೇಶ} other {{count,number} ಓದದಿರುವ ಸಂದೇಶಗಳು}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "ಎಲ್ಲವನ್ನು ಓದಿದೆ ಎಂದು ಗುರುತು ಮಾಡಿ"
@@ -2826,16 +2826,16 @@
     "messageformat": "ತೆಗೆದುಹಾಕಿ"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "ಸ್ಟಿಕ್ಕರ್ ಪ್ಯಾಕ್ ಮರುಕ್ರಮಗೊಳಿಸಲು ಡ್ರ್ಯಾಗ್ ಮಾಡಿ"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal ಕಲಾವಿದ ಸರಣಿ ಸ್ಟಿಕ್ಕರ್ ಪ್ಯಾಕ್‌ಗಳು"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "ಸ್ವೀಕರಿಸಲಾದ ಸ್ಟಿಕ್ಕರ್ ಪ್ಯಾಕ್‌ಗಳು"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲಾದ ಸ್ಟಿಕ್ಕರ್ ಪ್ಯಾಕ್‌ಗಳು"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "ಸ್ಟಿಕ್ಕರ್ ಪ್ಯಾಕ್"
@@ -3081,16 +3081,16 @@
     "messageformat": "ಸ್ಟಿಕ್ಕರ್ ಸೇರಿಸಿ"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "ಉತ್ತರಿಸಿ"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "ಕಳುಹಿಸಿ"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "ರದ್ದುಮಾಡಿ"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "ಸ್ಟಿಕ್ಕರ್"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "ರದ್ದುಮಾಡಿ"
@@ -8668,9 +8668,9 @@
     "messageformat": "ಗುಂಪು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿನ \"ಗುಂಪು ಕೊನೆಗೊಳಿಸಿ\" ಆಯ್ಕೆಯೊಂದಿಗೆ ಗುಂಪಿನ ಅಡ್ಮಿನ್‌ಗಳು ಚಾಟ್‌ಗಳನ್ನು ಕೊನೆಗೊಳಿಸಬಹುದು. ಗುಂಪನ್ನು ಕೊನೆಗೊಳಿಸುವುದರಿಂದ ಸದಸ್ಯರು ಮೆಸೇಜ್ ಕಳುಹಿಸಲು ಅಥವಾ ಕರೆ ಮಾಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ ಮತ್ತು ಆಹ್ವಾನಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ. ಈಗ, ಹೊಸದನ್ನು ರಚಿಸುವ ಮೊದಲು ಹಳೆಯ ಗುಂಪನ್ನು ಕೊನೆಗೊಳಿಸುವ ಮೂಲಕ, ಎಲ್ಲರೂ ಒಂದೇ ಚಾಟ್‌ನಲ್ಲಿದ್ದಾರೆ ಎಂದು ನೀವು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಬಹುದು."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "★ ಕಣ್ಮರೆಯಾಗುತ್ತಿರುವ ಕಾಲ್ ಇವೆಂಟ್‌ಗಳನ್ನು ಪರಿಚಯಿಸಲಾಗುತ್ತಿದೆ: ಈ ಅಪ್‌ಡೇಟ್ ಅನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ನಂತರ ನಡೆಯುವ ತಪ್ಪಿಹೋದ, ಹೊರಹೋಗುವ ಮತ್ತು ಸ್ವೀಕರಿಸಿದ ಕರೆಗಳು, ಮಾಯವಾಗುವ ಸಂದೇಶಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿರುವ ಯಾವುದೇ ಚಾಟ್‌ನಲ್ಲಿ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕಣ್ಮರೆಯಾಗುತ್ತವೆ."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "ನಿಮ್ಮ ಹೊಸ ಮೆಚ್ಚಿನ ಸ್ಟಿಕರ್‌ಗಳು ಸಾಲಿನಲ್ಲಿ ಸಿಲುಕಿಕೊಳ್ಳದಂತೆ ಈಗ ನೀವು ಸ್ಥಾಪಿಸಲಾದ ಸ್ಟಿಕ್ಕರ್ ಪ್ಯಾಕ್‌ಗಳನ್ನು ಮರುಕ್ರಮಗೊಳಿಸಬಹುದು."
   }
 }

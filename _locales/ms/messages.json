@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, other {{count,number} mesej yang belum dibaca}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Tandakan semua dibaca"
@@ -2826,16 +2826,16 @@
     "messageformat": "Alih keluar"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Seret untuk menyusun semula pek pelekat"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Pek pelekat Siri Artis Signal"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Menerima pek pelekat"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Memasang pek pelekat"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Pek Pelekat"
@@ -3081,16 +3081,16 @@
     "messageformat": "Tambah pelekat"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Balas"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Hantar"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Batal"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Pelekat"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Batal"
@@ -8668,9 +8668,9 @@
     "messageformat": "Pentadbir kumpulan kini boleh menamatkan sembang dengan pilihan baharu \"Tamatkan Kumpulan\" dalam tetapan kumpulan. Menamatkan kumpulan menghalang ahli kumpulan daripada menghantar mesej atau memulakan panggilan dan juga menyahdayakan jemputan. Kini anda boleh pastikan semua orang kekal di bebenang yang betul dengan menamatkan kumpulan tahun lalu sebelum mencantumkan yang baharu bersama."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Memperkenalkan acara panggilan menghilang: Panggilan tidak dijawab, panggilan keluar dan panggilan diterima yang berlaku selepas anda memasang kemas kini ini sekarang akan hilang secara automatik dalam mana-mana sembang yang mengaktifkan mesej menghilang."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Kini anda boleh menyusun semula pek pelekat yang dipasang supaya kegemaran baharu anda tidak lagi tersembunyi di bahagian belakang senarai."
   }
 }

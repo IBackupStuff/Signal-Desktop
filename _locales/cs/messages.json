@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} nepřečtená zpráva} few {{count,number} nepřečtené zprávy} many {{count,number} nepřečtených zpráv} other {{count,number} nepřečtených zpráv}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Označit vše jako přečtené"
@@ -2826,16 +2826,16 @@
     "messageformat": "Odebrat"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Přetažením změníte pořadí balíčků nálepek"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Balíčky nálepek se série Signal Artist"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Přijaté balíčky nálepek"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Nainstalované balíčky nálepek"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Balíček nálepek"
@@ -3081,16 +3081,16 @@
     "messageformat": "Přidat nálepku"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Odpovědět"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Odeslat"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Zrušit"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Nálepka"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Zrušit"
@@ -8668,9 +8668,9 @@
     "messageformat": "Správci skupin nyní mohou chaty ukončit pomocí nové možnosti Ukončit skupinu v nastavení skupiny. Ukončení skupiny zabrání jejím členům v posílání zpráv nebo zahajovaní hovorů a také deaktivuje pozvánky."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Představujeme mizející volání: Zmeškané, odchozí a přijaté hovory uskutečněné po instalaci této aktualizace nyní automaticky zmizí v jakémkoli chatu, kde jsou povoleny mizející zprávy."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Nyní můžete měnit pořadí nainstalovaných balíčků nálepek, aby vaši noví favorité nezůstali viset až na samém konci."
   }
 }

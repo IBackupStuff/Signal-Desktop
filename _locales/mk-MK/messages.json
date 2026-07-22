@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} непрочитана порака} other {{count,number} непрочитани пораки}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Обележи сѐ како прочитано"
@@ -2826,16 +2826,16 @@
     "messageformat": "Отстрани"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Повлечете за да го смените редоследот на пакетите со налепници"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Издание на Signal пакети налепници од артисти"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Примени пакети налепници"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Инсталирани пакети налепници"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Стикер пакет"
@@ -3081,16 +3081,16 @@
     "messageformat": "Додај стикер"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Одговори"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Испрати"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Откажи"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Стикер"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Откажи"
@@ -8668,9 +8668,9 @@
     "messageformat": "Администраторите на групите сега можат да дадат заклучок на разговорите со новата опција „Затворете ја групата“ во поставувањата на групата. Затворањето на групата спречува членовите на групата да испраќаат пораки или да започнуваат повици и исто така ги оневозможува поканите."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Воведување исчезнувачки активности поврзани со повици: пропуштените, појдовните и дојдовните повици кои ќе настанат откако ќе ја инсталирате оваа верзија сега автоматски ќе исчезнат во кој било разговор каде што се овозможени исчезнувачки пораки."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Сега можете да го смените редоследот на пакетите со налепници за вашите нови омилени налепници да не се кријат на крај."
   }
 }

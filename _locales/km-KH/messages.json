@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, other {{count,number} សារមិនទាន់អាន}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "សម្គាល់ថាបានអានទាំងអស់"
@@ -2826,16 +2826,16 @@
     "messageformat": "ដកចេញ"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "អូសដើម្បីតម្រៀបកញ្ចប់ស្ទីកគ័រឡើងវិញ"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "កញ្ចប់ស្ទីកគ័រស៊េរីសិល្បករ Signal"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "បានទទួលកញ្ចប់ស្ទីកគ័រ"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "បានដំឡើងកញ្ចប់ស្ទីកគ័រ"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "កញ្ចប់ស្ទីកគ័រ"
@@ -3081,16 +3081,16 @@
     "messageformat": "ដាក់ស្ទីកគ័រមួយ"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "ឆ្លើយតប"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "ផ្ញើ"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "បោះបង់"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "ស្ទីកគ័រ"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "បោះបង់"
@@ -8668,9 +8668,9 @@
     "messageformat": "ឥឡូវនេះ អ្នកគ្រប់គ្រងក្រុមអាចបញ្ចប់ការជជែកតាមធម្មតាបាន ដោយមានជម្រើស \"បញ្ចប់ក្រុម\" ថ្មីនៅក្នុងការកំណត់ក្រុម។ ការបញ្ចប់ក្រុមធ្វើឱ្យសមាជិកក្រុមមិនអាចផ្ញើសារ ឬចាប់ផ្តើមការហៅទូរសព្ទបានទេ ហើយក៏បិទការអញ្ជើញដែរ។ ឥឡូវនេះ អ្នកអាចធានាបានដែរថាអ្នករាល់គ្នាស្ថិតក្នុងកម្រងសារជជែកដែលត្រឹមត្រូវ ដោយបញ្ចប់ក្រុមជួបជុំចាស់កាលពីឆ្នាំមុន មុនពេលចាប់ផ្តើមក្រុមថ្មីជាមួយគ្នា។"
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "សូមណែនាំព្រឹត្តិការណ៍ហៅទូរសព្ទដែលបាត់ដោយស្វ័យប្រវត្តិ៖ ការហៅដែលខកខានមិនបានទទួល ការហៅចេញ និងការហៅដែលបានទទួល ដែលកើតឡើងបន្ទាប់ពីអ្នកដំឡើងកំណែថ្មីនេះនឹងបាត់ដោយស្វ័យប្រវត្តិនៅក្នុងការជជែកណាមួយដែលសារបាត់ដោយស្វ័យប្រវត្តិត្រូវបានបើក។"
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "ឥឡូវនេះ អ្នកអាចតម្រៀបឡើងវិញនូវកញ្ចប់ស្ទីកគ័រដែលបានដំឡើងហើយ ដូច្នេះស្ទីកគ័រដែលអ្នកចូលចិត្តថ្មីៗមិនគាំងនៅចុងក្រោយគេទេ។"
   }
 }

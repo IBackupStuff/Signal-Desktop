@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} непрочитане повідомлення} few {{count,number} непрочитані повідомлення} many {{count,number} непрочитаних повідомлень} other {{count,number} непрочитаного повідомлення}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Позначити всі як прочитані"
@@ -2826,16 +2826,16 @@
     "messageformat": "Вилучити"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Перетягніть, щоб впорядкувати набір стікерів"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Набір стікерів серії «Художники Signal»"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Отримано набір стікерів"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Установлені набори стікерів"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Набір стікерів"
@@ -3081,16 +3081,16 @@
     "messageformat": "Додати стікер"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Відповісти"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Надіслати"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Скасувати"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Стікер"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Закрити"
@@ -8668,9 +8668,9 @@
     "messageformat": "Адміністратори тепер можуть поставити в чаті крапку за допомогою нової опції «Закрити групу» в налаштуваннях групи. Якщо закрити групу, учасники більше не зможуть надсилати повідомлення й дзвонити, а запрошення буде деактивовано. Тепер ви зможете подбати, щоб торішня гілка із зустрічі любителів садівництва не розросталася нескінченно, якщо вже існує нова група."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Представляємо тимчасові сповіщення про виклики: після цього оновлення всі пропущені, вихідні та отримані дзвінки автоматично зникатимуть у чатах, де ввімкнено тимчасові повідомлення."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Тепер можна впорядковувати набори стікерів як вам зручно, щоб улюблені завжди були на початку списку."
   }
 }

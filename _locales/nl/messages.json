@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} ongelezen bericht} other {{count,number} ongelezen berichten}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Alles markeren als gelezen"
@@ -2826,16 +2826,16 @@
     "messageformat": "Verwijderen"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Sleep om stickerpakketten te herschikken"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal Artist stickerpakketten"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Ontvangen stickerpakketten"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Geïnstalleerde stickerpakketten"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Stickerpakket"
@@ -3081,13 +3081,13 @@
     "messageformat": "Een sticker toevoegen"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Antwoorden"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Verzenden"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Annuleren"
   },
   "icu:FunPicker__Label--Sticker": {
     "messageformat": "Sticker"
@@ -8668,9 +8668,9 @@
     "messageformat": "Groepsbeheerders kunnen chats nu op een makkelijke manier afsluiten met de nieuwe optie ‘Groep opheffen’ in de groepsinstellingen. Als je een groep opheft, kunnen groepsleden geen berichten meer versturen of oproepen starten, en worden uitnodigingen ook uitgeschakeld. Het project zit er eindelijk op, nu kun je ook de groep tot een goed einde brengen."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Nieuw: verdwijnende oproepen. Gemiste, uitgaande en ontvangen oproepen die plaatsvinden nadat je deze update hebt geïnstalleerd, verdwijnen automatisch in iedere chat waar verdwijnende berichten zijn ingeschakeld."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Je kunt nu je stickerpakketten herschikken, zodat je favorieten niet achteraan verdwijnen."
   }
 }

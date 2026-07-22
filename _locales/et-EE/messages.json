@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} lugemata sõnum} other {{count,number} lugemata sõnumit}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Märgi kõik loetuks"
@@ -2826,16 +2826,16 @@
     "messageformat": "Eemalda"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Lohista kleebiste komplekti järjekorra muutmiseks"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signali artisti seeria kleebiste komplektid"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Vastuvõetud kleebiste komplektid"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Installitud kleebiste komplektid"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Kleebisepakk"
@@ -3081,16 +3081,16 @@
     "messageformat": "Lisa kleebis"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Vasta"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Saada"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Loobu"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Kleebis"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Loobu"
@@ -8668,9 +8668,9 @@
     "messageformat": "Grupi administraatorid saavad nüüd vestlusi lõpetada, valides grupi sätete alt „Lõpeta grupp“. Grupi lõpetamisel ei saa grupiliikmed enam sõnumeid saata, kõnesid alustada ega kutseid saata."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Tutvustame kaduvaid kõnesündmusi: pärast seda uuendust saadud vastamata, väljuvate ja vastuvõetud kõnede teavitused kustuvad nüüd automaatselt kõigis vestlustes, kus kaduvad sõnumid sisse on lülitatud."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Nüüd saad installitud kleebiste komplektide järjekorda muuta, et su uued lemmikud ei kaoks loendi lõppu."
   }
 }

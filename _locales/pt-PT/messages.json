@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} mensagem por ler} other {{count,number} mensagens por ler}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Marcar tudo como lido"
@@ -2826,16 +2826,16 @@
     "messageformat": "Remover"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Arraste para reorganizar o pacote de autocolantes"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Pacotes de autocolantes de artistas do Signal"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Pacotes de autocolantes recebidos"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Pacotes de autocolantes instalados"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Pacote de autocolantes"
@@ -3081,16 +3081,16 @@
     "messageformat": "Adicionar um autocolante"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Responder"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Enviar"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Cancelar"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Autocolante"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Cancelar"
@@ -8668,9 +8668,9 @@
     "messageformat": "Os administradores dos grupos agora podem concluir chats com a nova opção \"Encerrar grupo\" nas definições de grupo. Encerrar um grupo impede os membros do grupo de enviar mensagens ou iniciar chamadas e também desativa convites."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Apresentamos os eventos de chamadas temporárias: as chamadas perdidas, efetuadas ou recebidas que ocorrerem após a instalação desta atualização irão agora desaparecer automaticamente de qualquer chat com as mensagens temporárias ativas."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Agora pode reordenar os pacotes de autocolantes instalados."
   }
 }

@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} پیام نخوانده} other {{count,number} پیام نخوانده}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "علامت‌گذاری همه به صورت خوانده شده"
@@ -2826,16 +2826,16 @@
     "messageformat": "حذف"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "برای مرتب‌سازی مجدد بسته استیکر، بکشید"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "بسته‌های استیکر مجموعه هنرمندان سیگنال"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "بسته‌های استیکر دریافت‌شده"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "بسته‌های استیکر نصب‌شده"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "پک استیکر"
@@ -3081,16 +3081,16 @@
     "messageformat": "افزودن یک استیکر"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "پاسخ"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "ارسال"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "لغو"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "استیکر"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "لغو"
@@ -8668,9 +8668,9 @@
     "messageformat": "مدیران گروه اکنون می‌توانند با گزینه جدید «پایان دادن به گروه» در تنظیمات گروه، به گفتگوها پایان دهند. پایان دادن به گروه، مانع از ارسال پیام یا شروع تماس توسط اعضای گروه می‌شود و همچنین دعوت‌ها را غیرفعال می‌کند."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "معرفی رویدادهای تماس ناپدیدشونده: تماس‌های ازدست‌رفته، خروجی و دریافتی که پس از نصب این نسخۀ جدید رخ می‌دهند، اکنون به‌طور خودکار در هر گفتگویی که پیام‌های ناپدیدشونده در آن فعال باشد، ناپدید می‌شوند."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "حالا می‌توانید بسته‌های استیکر نصب‌شده را دوباره مرتب کنید تا استیکرهای موردعلاقه جدیدتان از دید خارج نشوند."
   }
 }

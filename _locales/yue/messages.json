@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, other {{count,number} 個未讀訊息}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "全部剔低話睇咗"
@@ -2826,16 +2826,16 @@
     "messageformat": "移除"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "拖放去重新排過啲貼圖包"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal 藝術家系列貼圖包"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "已經收到貼圖包"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "已經安裝貼圖包"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "貼圖包"
@@ -3081,16 +3081,16 @@
     "messageformat": "加個貼圖"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "回覆"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "傳送"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "取消"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "貼圖"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "取消"
@@ -8668,9 +8668,9 @@
     "messageformat": "谷嘅話事人而家可以喺谷設定度用「解散個谷」呢個新選項，等個聊天自然咁摺埋。解散個谷可以令到谷友唔好再發送訊息或者發起通話。另外，邀請功能都停埋。而家，你可以喺開始籌備新一期嘅串珠仔聚會之前，先解散上期嘅聚會谷，咁樣大家就一定會跟得上啱嘅訊息串。"
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "隆重介紹「自動銷毀通話相關事件」功能：安裝呢次更新之後出現嘅未接來電、打出電話同收聽來電，而家都會喺啟用咗「自動銷毀訊息」嘅聊天入面自動消失。"
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "而家你可以重新排過安裝咗嘅貼圖包次序，等你嘅新寵貼圖包唔會被人迫到去隊尾。"
   }
 }

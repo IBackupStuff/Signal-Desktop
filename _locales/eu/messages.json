@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} mezu irakurri gabe} other {{count,number} mezu irakurri gabe}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Irakurritako gisa markatu guztiak"
@@ -2826,16 +2826,16 @@
     "messageformat": "Kendu"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Arrastatu eranskailu-paketea tokiz aldatzeko"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal-en artisten serieko eranskailu-paketeak"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Jasotako eranskailu-paketeak"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Instalatutako eranskailu-paketeak"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Eranskailuen Paketea"
@@ -3081,16 +3081,16 @@
     "messageformat": "Gehitu eranskailu bat"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Erantzun"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Bidali"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Utzi"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Eranskailua"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Utzi"
@@ -8668,9 +8668,9 @@
     "messageformat": "Orain, taldeko adminek txatak amaitzeko aukera dute, taldeen ezarpenetako \"Amaitu taldea\" aukera berriarekin. Talde bat amaituta, taldeko kideek ezingo dituzte bidali mezuak, ezta deiak hasi ere. Halaber, gonbidapenak desgaitu egingo dira."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Desagertzen diren deiekin lotutako gertaerak: Eguneratze hau instalatu ondoren gertatzen diren dei galduak, irteerako deiak eta jasotako deiak automatikoki desagertuko dira desagertzen den mezuak gaituta dauzkaten txatetan."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Orain, instalatutako eranskailu-paketeak berrantola ditzakezu, gogokoen dituzunak behean geratu ez daitezen."
   }
 }

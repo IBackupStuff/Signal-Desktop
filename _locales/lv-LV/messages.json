@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, zero {{count,number} nelasītu ziņu} one {{count,number} nelasīta ziņa} other {{count,number} nelasītas ziņas}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Atzīmēt visus kā lasītus"
@@ -2826,16 +2826,16 @@
     "messageformat": "Noņemt"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Velc, lai pārkārtotu uzlīmju komplektu"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal mākslas sērijas uzlīmju komplekti"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Saņemtie uzlīmju komplekti"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Instalētie uzlīmju komplekti"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Uzlīmju komplekts"
@@ -3081,16 +3081,16 @@
     "messageformat": "Pievienot uzlīmi"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Atbildēt"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Sūtīt"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Atcelt"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Uzlīme"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Atcelt"
@@ -8668,9 +8668,9 @@
     "messageformat": "Grupu administratori tagad var organiski izbeigt sarunas, izmantojot jauno iespēju “Slēgt grupu” grupas iestatījumos. Pēc grupas slēgšanas grupas biedri vairs nevarēs nosūtīt ziņas vai veikt zvanus, vai uzaicināt jaunus biedrus. Tagad varat droši slēgt \"aizmigušās\" interešu grupas pirms jaunu grupu izveides."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Iepazīstinām ar gaistošiem zvanu notikumiem: neatbildētie, izejošie un saņemtie zvani, kas veikti pēc šī atjauninājuma instalēšanas, tagad automātiski izgaisīs visās sarunās, kurās ir iespējotas gaistošās ziņas."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Tagad vari mainīt instalēto uzlīmju komplektu secību, lai iecienītākie komplekti nav saraksta beigās."
   }
 }

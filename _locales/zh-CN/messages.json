@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, other {{count,number} 条未读消息}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "全部标为已读"
@@ -2826,16 +2826,16 @@
     "messageformat": "移除"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "拖动以重排贴纸包"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal 艺术家系列贴纸包"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "收到的贴纸包"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "安装的贴纸包"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "表情包"
@@ -3081,16 +3081,16 @@
     "messageformat": "添加贴纸"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "回复"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "发送"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "取消"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "表情"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "取消"
@@ -8668,9 +8668,9 @@
     "messageformat": "群组管理员现在可以通过群组设置中的“解散群组”新选项来结束群组聊天。解散群组后，群组成员将无法发送消息或发起通话，邀请功能也将被禁用。"
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "推出限时通话事件功能：安装此更新后，在任何启用了限时消息的聊天中，未接来电、拨出通话和已接来电将自动消失。"
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "现在您可以重排已安装的贴纸包，这样一来您最喜欢的贴纸包就不会排在最后了。"
   }
 }

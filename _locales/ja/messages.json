@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, other {{count,number}件の未読メッセージ}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "すべて既読にする"
@@ -2826,16 +2826,16 @@
     "messageformat": "削除"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "ドラッグしてステッカーパックを並べ替える"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signalアーティストシリーズのステッカーパック"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "受信したステッカーパック"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "インストールしたステッカーパック"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "ステッカーパック"
@@ -3081,16 +3081,16 @@
     "messageformat": "ステッカーを追加"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "返信"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "送信"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "キャンセル"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "ステッカー"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "キャンセル"
@@ -8668,9 +8668,9 @@
     "messageformat": "グループ管理者は、グループ設定内に追加された「グループを終了」という新しいオプションを使用して、チャットを終了できるようになりました。グループを終了すると、メンバーはメッセージ送信や通話開始ができなくなり、招待も無効になります。"
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "通話関連履歴、自動消去のお知らせを追加しました。このアップデートをインストールすると、消えるメッセージが有効になっているチャットでは、不在着信、発信、着信履歴が自動的に消去されます。"
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "インストールしたステッカーパックを並べ替えられるようになりました。これで、新しいお気に入りのパックがリストの後ろに埋もれてしまうことはありません。"
   }
 }

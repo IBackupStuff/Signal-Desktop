@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} ન વાંચેલો મેસેજ} other {{count,number} ન વાંચેલા મેસેજ}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "બધાને વાંચેલા તરીકે માર્ક કરો"
@@ -2826,16 +2826,16 @@
     "messageformat": "દૂર કરો"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "સ્ટીકર પેકનો ક્રમ બદલવા ખેંચો"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal આર્ટિસ્ટ સિરીઝ સ્ટીકર પેક"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "મેળવેલા સ્ટીકર પેક"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "ઇન્સ્ટોલ કરેલા સ્ટીકર પેક"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "સ્ટીકર પેક"
@@ -3081,16 +3081,16 @@
     "messageformat": "સ્ટિકર ઉમેરો"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "જવાબ આપો"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "મોકલો"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "રદ કરો"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "સ્ટીકર"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "રદ કરો"
@@ -8668,9 +8668,9 @@
     "messageformat": "ગ્રૂપ એડમિન હવે ગ્રૂપ સેટિંગ્સમાં નવા \"ગ્રૂપ સમાપ્ત કરો\" વિકલ્પ સાથે ચેટને તેમના કુદરતી સમાપન પર લાવી શકે છે. ગ્રૂપ સમાપ્ત કરવાથી ગ્રૂપના સભ્યોને મેસેજ મોકલવા અથવા કૉલ શરૂ કરવાથી રોકે છે તેમજ આમંત્રણો પણ અક્ષમ કરે છે."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "પ્રસ્તુત કરીએ છીએ ગાયબ થતી કૉલ ઇવેન્ટ: આ અપડેટ ઇન્સ્ટોલ કર્યા પછી થતા મિસ્ડ, આઉટગોઇંગ અને રિસીવ થયેલા કૉલ હવે કોઈ પણ ચેટમાં આપમેળે ગાયબ થઈ જશે જ્યાં ગાયબ થતાં મેસેજ સક્ષમ હોય."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "હવે તમે ઇન્સ્ટોલ કરેલા સ્ટીકર પેકને ફરીથી ગોઠવી શકો છો જેથી તમારા નવા મનપસંદ સ્ટીકર પેક લાઇનના પાછળના ભાગમાં અટવાઈ ન જાય."
   }
 }

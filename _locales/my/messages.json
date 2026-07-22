@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, other {မဖတ်ရသေးသည့် မက်ဆေ့ချ် {count,number}}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "အားလုံးကို ဖတ်ပြီးသားအဖြစ် မှတ်ပါ"
@@ -2826,16 +2826,16 @@
     "messageformat": "ဖယ်ရှားရန်"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "စတစ်ကာတွဲကို ပြန်စီရန် ဖိဆွဲပြီးရွှေ့ပါ"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal အနုပညာရှင် စီးရီး စတစ်ကာတွဲ"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "လက်ခံရရှိထားသော စတစ်ကာတွဲများ"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "ထည့်သွင်းထားသော စတစ်ကာတွဲများ"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "စတစ်ကာတွဲ"
@@ -3081,16 +3081,16 @@
     "messageformat": "စတစ်ကာ ပေါင်းထည့်ရန်"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "စာပြန်မည်"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "ပေးပို့ရန်"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "မလုပ်တော့ပါ"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "စတစ်ကာ"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "မလုပ်တော့ပါ"
@@ -8668,9 +8668,9 @@
     "messageformat": "အဖွဲ့ အက်ဒ်မင်များသည် အဖွဲ့ဆက်တင်များရှိ “အဖွဲ့ကို အဆုံးသတ်ရန်” ရွေးချယ်မှုအသစ်မှတစ်ဆင့် အဖွဲ့ချက်(တ်)ကို အဆုံးသတ်နိုင်ပါသည်။ အဖွဲ့ကို အဆုံးသတ်ပြီးပါက အဖွဲ့ဝင်များသည် မက်ဆေ့ချ်ပို့ခြင်း၊ ခေါ်ဆိုမှုစတင်ခြင်းနှင့် ဖိတ်ကြားမှုများ ပြုလုပ်ခြင်းတို့ကို လုပ်ဆောင်နိုင်တော့မည်မဟုတ်ပါ။"
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "ပျောက်သွားမည့် ခေါ်ဆိုမှု အခြေအနေကို မိတ်ဆက်ခြင်း- ဤအပ်ဒိတ်ကို ထည့်သွင်းပြီးနောက် ပျောက်သွားမည့် မက်ဆေ့ချ်များ ကို ဖွင့်ထားသည့် မည်သည့်ချက်(တ်)တွင်မဆို လွတ်သွားသည့်၊ ခေါ်ဆိုထားသည့်၊ လက်ခံထားသည့် ဖုန်းခေါ်ဆိုမှုမှတ်တမ်းများသည် အလိုအလျောက် ပျောက်ကွယ်သွားမည်ဖြစ်သည်။"
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "ယခုအခါ ထည့်သွင်းထားသော စတစ်ကာတွဲများ၏ အစီအစဉ်ကို သင့်စိတ်ကြိုက် ပြန်စီနိုင်ပြီဖြစ်သောကြောင့် သင်အကြိုက်ဆုံး စတစ်ကာအတွဲအသစ်များကို စာရင်း၏ နောက်ဆုံးတွင် ရှာဖွေနေရမည် မဟုတ်တော့ပါ။"
   }
 }

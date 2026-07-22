@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {הודעה {count,number} לא נקראה} two {{count,number} הודעות לא נקראו} many {{count,number} הודעות לא נקראו} other {{count,number} הודעות לא נקראו}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "סמן הכול כנקרא"
@@ -2826,16 +2826,16 @@
     "messageformat": "הסרה"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "יש לגרור כדי לסדר מחדש חבילת סטיקרים"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "חבילות סטיקרים מסדרת אומני Signal"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "חבילות סטיקרים שהתקבלו"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "חבילות סטיקרים שהותקנו"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "חבילת מדבקות"
@@ -3081,16 +3081,16 @@
     "messageformat": "הוסף מדבקה"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "השב"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "שליחה"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "ביטול"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "מדבקה"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "ביטול"
@@ -8668,9 +8668,9 @@
     "messageformat": "מנהלי קבוצות יכולים עכשיו לסיים צ׳אטים עם אפשרות ״סיום קבוצה״ החדשה בהגדרות הקבוצה. סיום קבוצה מונע מחברי הקבוצה לשלוח הודעות או להתחיל שיחות, וגם משבית הזמנות."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "נעים להכיר: אירועי שיחה נעלמים. שיחות יוצאות, נכנסות, ושלא נענו שיתרחשו אחרי התקנת את העדכון הזה יעלמו כעת אוטומטית בכל צ׳אט שבו מופעלות הודעות נעלמות."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "עכשיו אפשר לארגן מחדש חבילות סטיקרים שהותקנו כך שהחבילות המועדפות החדשות שלך לא ייתקעו בסוף התור."
   }
 }

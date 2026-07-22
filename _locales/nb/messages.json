@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} ulest melding} other {{count,number} uleste meldinger}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Merk alle som lest"
@@ -2826,16 +2826,16 @@
     "messageformat": "Fjern"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Dra for å endre rekkefølgen på klistremerkepakkene"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Klistremerkepakker fra Signal Artist Series"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Mottatte klistremerkepakker"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Installerte klistremerkepakker"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Klistremerkepakke"
@@ -3081,16 +3081,16 @@
     "messageformat": "Legg til et klistremerke"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Svar"
   },
   "icu:FunPicker__Label--SendStickerReply": {
     "messageformat": "Send"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Avbryt"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Klistremerke"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Avbryt"
@@ -8668,9 +8668,9 @@
     "messageformat": "Gruppeadministratorer kan nå sette punktum for grupper med den nye «Steng gruppe»-funksjonen. Dersom en gruppe stenges, mister alle medlemmene muligheten til å sende meldinger og holde videosamtaler i gruppechatten, samt til å invitere nye medlemmer."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Vi lanserer tidsbegrensede samtalehendelser: tapte, utgående og inngående anrop som skjer etter at du installerer denne oppdateringen, forsvinner nå automatisk i alle samtaler der tidsbegrenset melding-innstillingen er aktivert."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Nå kan du endre rekkefølgen på installerte klistremerkepakker, slik at de nye favorittene dine ikke havner bakerst i køen."
   }
 }

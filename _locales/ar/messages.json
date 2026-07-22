@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, zero {{count,number} رسالة غير مقروءة} one {{count,number} رسالة غير مقروءة} two {{count,number} رسالتين غير مقروءتين} few {{count,number} رسائل غير مقروءة} many {{count,number} رسالةً غير مقروءة} other {{count,number} رسالةٍ غير مقروءة}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "اعتبار كل الرسائل مقروءة"
@@ -2826,16 +2826,16 @@
     "messageformat": "إزالة"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "اسحب لإعادة ترتيب حزمة المُلصَقات"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "حُزَم المُلصَقات الفنية على سيجنال"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "حُزَم المُلصَقات المُستلَمة"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "حُزَم المُلصَقات المُثبَّتة"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "مجموعة المُلصَقات"
@@ -3081,16 +3081,16 @@
     "messageformat": "إضافة مُلصَق"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "الرد"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "إرسال"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "إلغاء"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "مُلصَق"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "إلغاء"
@@ -8668,9 +8668,9 @@
     "messageformat": "يمكن لمُشرِفي المجموعات الآن إنهاء الدردشات بطريقة طبيعية بفضل خيار \"حلّ المجموعة\" الجديد في إعدادات المجموعة. يؤدي حلّ المجموعة إلى منع أعضاء المجموعة من إرسال الرسائل أو إجراء المكالمات، كما يُؤدي إلى تعطيل إمكانية إرسال الدعوات. يمكنك الآن التأكُّد من بقاء الجميع في سلسلة الدردشة الصحيحة عن طريق إنهاء مجموعة لقاءات الخياطة الخاصة بالسنة الماضية قبل البدء في حياكة مجموعة جديدة."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "تعرَّفوا على ميزة اختفاء المكالمات: المكالمات الفائتة، والصادرة، والواردة التي تتم بعد تثبيت هذا التحديث سَتختفي الآن تلقائيًا في أي دردشة تمَّ تفعيل ميزة اختفاء الرسائل فيها."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "يمكنك الآن إعادة ترتيب حزم المُلصَقات المُثبَّتة حتى لا تظل مُلصَقاتك المفضلة الجديدة في مؤخرة القائمة."
   }
 }

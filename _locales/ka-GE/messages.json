@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} წაუკითხავი შეტყობინება} other {{count,number} წაუკითხავი შეტყობინება}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "ყველას წაკითხულად მონიშვნა"
@@ -2826,16 +2826,16 @@
     "messageformat": "გათიშვა"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "გადაიტანე სტიკერების ნაკრების დასაორგანიზებლად"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal-ის მხატვრების სერიების სტიკერების ნაკრებები"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "მიღებული სტიკერების ნაკრებები"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "გადმოწერილი სტიკერების ნაკრებები"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "სტიკერების ნაკრები"
@@ -3081,16 +3081,16 @@
     "messageformat": "სტიკერის დამატება"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "პასუხი"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "გაგზავნა"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "გაუქმება"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "სტიკერი"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "გაუქმება"
@@ -8668,9 +8668,9 @@
     "messageformat": "ჯგუფის ადმინისტრატორებს ახლა უკვე შეუძლიათ ჯგუფის პარამეტრებიდან ახალი \"ჯგუფის გაუქმების\" ოფციით ჩატი დაასრულონ. ჯგუფის გაუქმების შემდეგ წევრები წერილებს ვეღარ გაგზავნიან, ზარებს ვეღარ წამოიწყებენ და ვერც ახალი წევრების მოწვევას შეძლებენ. ახლა შეგიძლია დარწმუნებული იყო, რომ წინა წლის ჩატები გაუქმებული იქნება, სანამ ამ წლისთვის ახალს შექმნი."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "წარმოგიდგენთ გაქრობად ზარის აქტივობებს: გამოტოვებული, გამავალი და შემომავალი ზარები, რომლებიც ამ განახლების გადმოწერის შემდეგ განხორციელდება, ავტომატურად გაქრება ყველა ჩატში, რომელშიც გაქრობადი შეტყობინებებია ჩართული."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "ახლა შეგიძლია სტიკერების ნაკრებები დააორგანიზო, რომ შენი ფავორიტები სიის ბოლოში არ მოხვდეს."
   }
 }

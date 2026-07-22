@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, other {{count,number} Pesan Belum Dibaca}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Tandai semua sudah dibaca"
@@ -2826,16 +2826,16 @@
     "messageformat": "Hapus"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Seret untuk menyesuaikan urutan paket stiker"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Paket stiker Seri Seniman Signal"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Paket stiker yang diterima"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Paket stiker terinstal"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Paket Stiker"
@@ -3081,16 +3081,16 @@
     "messageformat": "Tambahkan stiker"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Balas"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Kirim"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Batal"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Stiker"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Batal"
@@ -8668,9 +8668,9 @@
     "messageformat": "Admin grup kini bisa mengakhiri percakapan dengan opsi baru \"Akhiri Grup\" di pengaturan grup. Setelah grup diakhiri, anggota grup tidak akan bisa lagi mengirim pesan, memulai panggilan, atau mengundang anggota baru."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Memperkenalkan aktivitas panggilan terhapus otomatis: Panggilan tak terjawab, panggilan keluar, dan panggilan masuk yang terjadi setelah Anda menginstal pembaruan ini kini akan otomatis hilang di chat yang mengaktifkan pesan terhapus otomatis."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Kini Anda bisa menyesuaikan urutan paket stiker yang telah terinstal, jadi stiker favorit Anda yang baru tidak berada di urutan paling belakang."
   }
 }

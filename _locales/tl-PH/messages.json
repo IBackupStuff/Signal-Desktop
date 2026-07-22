@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} hindi pa nabasang mensahe} other {{count,number} hindi pa nabasang mensahe}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Markahan ang lahat na nabasa na"
@@ -2826,16 +2826,16 @@
     "messageformat": "Tanggalin"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "I-drag para i-reorder ang sticker pack"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
     "messageformat": "Signal Artist Series sticker packs"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Natanggap na sticker packs"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Naka-install na sticker packs"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Sticker Pack"
@@ -3081,13 +3081,13 @@
     "messageformat": "Mag-add ng sticker"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Tugon"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "I-send"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "I-cancel"
   },
   "icu:FunPicker__Label--Sticker": {
     "messageformat": "Sticker"
@@ -8668,9 +8668,9 @@
     "messageformat": "Maaari nang tapusin ng group admins ang chats gamit ang bagong \"End Group\" option sa group settings. Mapipigilan nito ang group members sa pag-send ng messages o pagsisimula ng calls, at dini-disable rin nito ang invites."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Ipinakikilala ang disappearing call events: Pagkatapos mong i-install ang update na ito ay automatic na mawawala ang missed, outgoing, at received calls sa anumang chat kung saan naka-enable ang disappearing messages.\n"
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Pwede mo nang ayusin ang naka-install na sticker packs para hindi mapunta sa dulo ang bago mong favorites."
   }
 }

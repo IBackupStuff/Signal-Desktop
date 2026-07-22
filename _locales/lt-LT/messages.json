@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} neskaityta žinutė} few {{count,number} neskaitytos žinutės} many {{count,number} neskaitytų žinučių} other {{count,number} neskaitytų žinučių}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Žymėti visus skaitytais"
@@ -2826,16 +2826,16 @@
     "messageformat": "Šalinti"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Vilkite norėdami pakeisti lipdukų paketų tvarką"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "„Signal“ menininkų serijos lipdukų paketas"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Gauti lipdukų paketai"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Įdiegti lipdukų paketai"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Lipdukų paketas"
@@ -3081,16 +3081,16 @@
     "messageformat": "Pridėti lipduką"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Atsakyti"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Siųsti"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Atšaukti"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Lipdukas"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Atšaukti"
@@ -8668,9 +8668,9 @@
     "messageformat": "Nuo šiol grupės administratoriai gali užbaigti pokalbius su naująja parinktimi „Uždaryti grupę“ grupės nustatymuose. Uždarius grupę jos nariai nebegalės siųsti žinučių ir skambinti, be to, bus išjungti ir pakvietimai jungtis prie grupės."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Pristatome skambučių įvykius: praleisti, išsiunčiamieji ir gauti skambučiai, įvykę jums jau įdiegus ši atnaujinimą, dabar automatiškai dings bet kuriame pokalbyje, kuriame įjungtos dingstančios žinutės."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Dabar galite pakeisti įdiegtų lipdukų paketų eilės tvarką, kad naujai pamėgti lipdukai nepasimestų eilės gale."
   }
 }

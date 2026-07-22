@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}명 이상"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, other {읽지 않은 메시지 {count,number}개}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "모두 읽음으로 표시"
@@ -2826,16 +2826,16 @@
     "messageformat": "삭제"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "드래그하여 스티커 팩 순서 바꾸기"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal 아티스트 시리즈 스티커 팩"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "받은 스티커 팩"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "설치된 스티커 팩"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "스티커 팩"
@@ -3081,16 +3081,16 @@
     "messageformat": "스티커 추가"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "답장"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "전송"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "취소"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "스티커"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "취소"
@@ -8668,9 +8668,9 @@
     "messageformat": "★ 이제 그룹 관리자는 그룹 설정의 새로운 '그룹 종료' 옵션으로 대화를 마무리할 수 있습니다. 그룹이 종료되면 그룹 멤버가 메시지를 보내거나 전화를 시작할 수 없으며, 초대 기능도 비활성화됩니다."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "통화 내역 자동 삭제 기능 도입: 이 업데이트를 설치한 후에는 자동 삭제 메시지가 설정된 모든 채팅에서 부재중 전화, 발신 및 수신 기록도 자동으로 삭제됩니다."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "이제 설치된 스티커 팩의 순서를 바꿀 수 있습니다. 새로 추가한 스티커 팩이 뒤로 밀리지 않게 원하는 위치로 정리해 보세요."
   }
 }

@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} টি অপঠিত বার্তা} other {{count,number} টি অপঠিত বার্তা}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "সমস্ত পড়া হয়েছে চিহ্নিত করুন"
@@ -2826,16 +2826,16 @@
     "messageformat": "মুছে ফেলুন"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "স্টিকার প্যাকের ক্রম পরিবর্তন করতে ড্র্যাগ করুন"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal আর্টিস্ট সিরিজ স্টিকার প্যাক"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "যেসব স্টিকার প্যাক পাওয়া যাচ্ছে"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "ইনস্টল করা স্টিকার প্যাক"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "স্টিকার প্যাক"
@@ -3081,16 +3081,16 @@
     "messageformat": "একটি স্টিকার যোগ করুন"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "প্রত্যুত্তর"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "পাঠান"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "বাতিল করুন"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "স্টিকার"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "বাতিল করুন"
@@ -8668,9 +8668,9 @@
     "messageformat": "গ্রুপ অ্যাডমিনরা এখন গ্রুপ সেটিংসে থাকা নতুন \"গ্রুপ বন্ধ করুন\" অপশনটির মাধ্যমে চ্যাট শেষ করতে পারবেন। গ্রুপ শেষ করলে গ্রুপের সদস্যরা আর মেসেজ পাঠাতে বা কল শুরু করতে পারবেন না এবং আমন্ত্রণও নিষ্ক্রিয় হয়ে যাবে।"
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "চলে এলো অদৃশ্য হতে যাওয়া কল ইভেন্ট: এই আপডেটটি ইনস্টল করার পর হওয়া মিসড, আউটগোয়িং এবং রিসিভ করা কলগুলো এখন থেকে অদৃশ্য হতে যাওয়া মেসেজ চালু থাকা যেকোনো চ্যাট থেকে স্বয়ংক্রিয়ভাবে অদৃশ্য হয়ে যাবে।"
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "এখন আপনি ইনস্টল করা স্টিকার প্যাকগুলোর ক্রম পরিবর্তন করতে পারবেন, যাতে আপনার নতুন পছন্দের লিস্টের শেষে আটকে না যায়।"
   }
 }

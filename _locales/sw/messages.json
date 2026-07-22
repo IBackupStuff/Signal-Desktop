@@ -15,7 +15,7 @@
     "messageformat": "Futa"
   },
   "icu:AxoBadge.MaxOverflow": {
-    "messageformat": "{max,number}+"
+    "messageformat": "+{max,number}"
   },
   "icu:AddUserToAnotherGroupModal__title": {
     "messageformat": "Ongeza kwenye kikundi"
@@ -321,7 +321,7 @@
     "messageformat": "+{maxCount,number}"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} majumbe haijasomewa} other {{count,number} Jumbe hazijasomwa}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Alamisha zote zimesomwa"
@@ -2826,16 +2826,16 @@
     "messageformat": "Ondoa"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Buruta kisha upange tena pakiti ya vibandiko"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Pakiti za vibandiko za Mfululizo wa Wasanii wa Signal"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Umepokea pakiti ya vibandiko"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Umeweka pakiti ya vibandiko"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Pakiti ya Vibandiko"
@@ -3081,16 +3081,16 @@
     "messageformat": "Ongeza kibandiko"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Jibu"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Tuma"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Ghairi"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Kibandiko"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Ghairi"
@@ -8668,9 +8668,9 @@
     "messageformat": "Admins wa vikundi sasa wanaweza kuhitimisha magumzo kikawaida kwa kutumia chaguo la \"Funga Kikundi\" katika mipangilio ya kikundi. Kufunga kikundi huzuia wanakikundi kutuma jumbe au kupiga simu na pia inazima uwezo wa kualika. Sasa unaweza kuhakikisha kila mtu anabaki kwenye mazungumzo sahihi kwa kufunga kikundi cha ushonaji cha mwaka jana kabla ya kufungua kingine pamoja."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Tunatambulisha matukio ya upigaji simu yanayotoweka: simu ulizopokea, ulizopiga au ambazo hukupokea ambazo zinatokea baada ya kuanza kutumia sasisho hili sasa yatatoweka kiotomatiki katika gumzo lolote ambapo kipengele cha ujumbe wa kutoweka kimewashwa."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Sasa unaweza kupanga pakiti za vibandiko zilizowekwa ili siku nyingine vipendwa vyako vizikosekane."
   }
 }

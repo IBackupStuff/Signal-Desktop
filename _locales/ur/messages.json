@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number}نہ پڑھے ہوئے پیغامات} other {{count,number}نہ پڑھے ہوئے پیغامات}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "تمام پڑھنے پر نشان لگائیں"
@@ -2826,16 +2826,16 @@
     "messageformat": "ہٹا دیں"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "اسٹیکر پیک کو دوبارہ ترتیب دینے کے لیے ڈریگ کریں"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal آرٹسٹ سیریز کے اسٹیکر پیکس"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "موصول شدہ اسٹیکر پیکس"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "انسٹال کردہ اسٹیکر پیکس"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "اسٹیکر پیک"
@@ -3081,16 +3081,16 @@
     "messageformat": "اسٹیکر شامل کریں"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "جواب دیں"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "بھیجیں"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "منسوخ کریں"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "اسٹیکر"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "منسوخ کریں"
@@ -8668,9 +8668,9 @@
     "messageformat": "• گروپ ایڈمنز اب گروپ سیٹنگز میں \"گروپ ختم کریں\" کے نئے آپشن کے ساتھ چیٹس کو ختم کر سکتے ہیں۔ گروپ ختم کرنا گروپ ممبرز کو میسجز بھیجنے یا کالز کا آغاز کرنے سے روکتا ہے، اور اس کے علاوہ مدعو کرنے کو بھی غیر فعال کرتا ہے۔ اب آپ یقینی بنا سکتے ہیں کہ سب لوگ صحیح تھریڈ میں رہیں اور آپ پچھلے سال کا سلائی کڑھائی والا گروپ ختم کر کے نیا گروپ بنائیں۔"
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "غائب ہونے والے کال ایونٹس متعارف کروائے جا رہے ہیں: اس اپ ڈیٹ کو انسٹال کرنے کے بعد چھوٹ جانے والی، کی جانے والی، اور موصول ہونے والی کالز اب خود کار طور پر کسی بھی ایسی چیٹ سے غائب ہو جائیں گی جہاں غائب ہونے والے میسجز فعال ہوں گے۔"
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "اب آپ انسٹال کردہ اسٹیکر پیکس کو دوبارہ ترتیب دے سکتے ہیں تاکہ آپ کے نئے پسندیدہ اسٹیکرز فہرست میں پیچھے نہ رہ جائیں۔"
   }
 }

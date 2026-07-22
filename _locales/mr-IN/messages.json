@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} न वाचलेला संदेश} other {{count,number} न वाचलेले संदेश}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "सर्व वाचले म्हणून चिन्हांकित करा"
@@ -2826,16 +2826,16 @@
     "messageformat": "काढून टाका"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "स्टिकर पॅक चा क्रम बदलण्यासाठी ड्रॅग करा"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Signal कलाकार मालिका स्टिकर पॅक्स"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "मिळालेले स्टिकर पॅक्स"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "इन्स्टॉल केलेले स्टिकर पॅक्स"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "स्टिकर पॅक"
@@ -3081,16 +3081,16 @@
     "messageformat": "स्टिकर जोडा"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "प्रत्युत्तर द्या"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "पाठवा"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "रद्द करा"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "स्टिकर"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "रद्द करा"
@@ -8668,9 +8668,9 @@
     "messageformat": "गट ॲडमिन आता गट सेटिंग्ज मधील नवीन \"गट बंद करा\" पर्याय वापरून चॅट्स समाप्त करू शकतात. गट बंद केल्याने गट सदस्यांना संदेश पाठवता येत नाहीत किंवा कॉल्स सुरु करता येत नाहीत, आणि निमंत्रणेसुद्धा बंद होतात."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "सादर आहेत नाहीसे होणाऱ्या कॉलचा प्रसंग : मिस्ड, केलेले, आणि आलेले कॉल्स जे तुम्ही हा अद्यतन इन्स्टॉल केल्यावर उद्भवतील, ते आता अशा कोणत्याही चॅटमध्ये आपोआप लुप्त होणारे संदेश नाहीसे होण्यासाठी चालू केलेले असेल."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "आता तुम्ही इन्स्टॉल केलेल्या स्टिकर पॅक्सचा क्रम बदलू शकता, म्हणजे तुमच्या आवडीचे स्टिकर तुमच्या जवळ तुम्हाला चिकटून राहू शकतील."
   }
 }

@@ -321,7 +321,7 @@
     "messageformat": "{maxCount,number}+"
   },
   "icu:LeftPaneChatFolders__ItemUnreadBadge__AccessibleLabel": {
-    "messageformat": "{count, plural, one {{count,number} Unread Message} other {{count,number} Unread Messages}}"
+    "messageformat": "{count, plural, one {{count,number} mesaj necitit} few {{count,number} mesaje necitite} other {{count,number} de mesaje necitite}}"
   },
   "icu:LeftPaneChatFolders__Item__ContextMenu__MarkAllRead": {
     "messageformat": "Marchează tot ca citit"
@@ -2826,16 +2826,16 @@
     "messageformat": "Elimină"
   },
   "icu:stickers--StickerManagerPackDragHandle--Label": {
-    "messageformat": "Drag to reorder sticker pack"
+    "messageformat": "Trage pentru a reordona pachetul de abțibilduri"
   },
   "icu:stickers--StickerManagerBlessedPacksList--Label": {
-    "messageformat": "Signal Artist Series sticker packs"
+    "messageformat": "Pachete de abțibilduri Signal Artist Series"
   },
   "icu:stickers--StickerManagerReceivedPacksList--Label": {
-    "messageformat": "Received sticker packs"
+    "messageformat": "Pachete de abțibilduri primite"
   },
   "icu:stickers--StickerManagerInstalledPacksList--Label": {
-    "messageformat": "Installed sticker packs"
+    "messageformat": "Pachete de abțibilduri instalate"
   },
   "icu:stickers--StickerPreview--Title": {
     "messageformat": "Pachet autocolante"
@@ -3081,16 +3081,16 @@
     "messageformat": "Adaugă un autocolant"
   },
   "icu:FunPicker__Label--StickerReply": {
-    "messageformat": "Reply"
+    "messageformat": "Răspunde"
   },
   "icu:FunPicker__Label--SendStickerReply": {
-    "messageformat": "Send"
+    "messageformat": "Trimite"
   },
   "icu:FunPicker__Label--CancelStickerReply": {
-    "messageformat": "Cancel"
+    "messageformat": "Anulează"
   },
   "icu:FunPicker__Label--Sticker": {
-    "messageformat": "Sticker"
+    "messageformat": "Autocolant"
   },
   "icu:confirmation-dialog--Cancel": {
     "messageformat": "Anulează"
@@ -8668,9 +8668,9 @@
     "messageformat": "Administratorii grupurilor pot acum încheia discuțiile în mod natural, folosind noua opțiune „Încheie grupul” din setările grupului. Încheierea unui grup împiedică membrii acestuia să mai trimită mesaje sau să inițieze apeluri și, de asemenea, dezactivează invitațiile. Acum poți să te asiguri că toată lumea rămâne la zi, încheind grupul de croșetat de anul trecut, înainte de a forma unul nou."
   },
   "icu:WhatsNew__8.20--0": {
-    "messageformat": "Introducing disappearing call events: Missed, outgoing, and received calls that occur after you install this update will now automatically disappear in any chat where disappearing messages are enabled."
+    "messageformat": "Îți prezentăm funcția „Apeluri care dispar”: apelurile pierdute, efectuate și primite după instalarea acestei actualizări vor dispărea acum automat din orice conversație în care sunt activate mesajele care dispar."
   },
   "icu:WhatsNew__8.20--1": {
-    "messageformat": "Now you can reorder installed sticker packs so your new favorites don’t get stuck in the back of the line."
+    "messageformat": "Acum poți reordona pachetele de abțibilduri instalate, astfel încât noile tale preferate să nu rămână ascunse la coada listei."
   }
 }
